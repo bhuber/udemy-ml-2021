@@ -1,0 +1,531 @@
+feedback_id,examples,confidence
+k11w6t,"Invoice No.: <NUMBER>
+
+Refund request reason: I was informed I has until the 20th to cancel my free subscription.  I would like my money back, subscription payment refund, and my subscription to be cancelled. Thank you.",0.9128596782684326
+x7caag,"Invoice No.: <NUMBER>
+
+Refund request reason: I tried to cancel my subscription two days ago but apparently it did not go through and today I was charged. I have now successfully cancelled the subscription, please refund the money for invoice mentioned.
+Best regards,
+<NAME>",0.8814927935600281
+1i472d,"Invoice No.: <NUMBER>
+
+Refund request reason: I never agreed to a subscription. I was charged for a subscription and I do not use Canva enough to sign up for a subscription. Please refund as we are in a pandemic.",0.842309296131134
+1pj1cs,"Invoice no.: <NUMBER>
+
+Refund request reason: I cancelled my subscription today. I should not be charged for the next month. Please refund <NAME> to me. Thank you.",0.8377454280853271
+gtrgqa,"Invoice No.: <NUMBER>
+
+Refund request reason: I was unable to cancel subscription as I was away. Not using Canva and need a refund.",0.8317134976387024
+x9g66i,"Invoice no.: <NUMBER>
+
+Refund request reason: Please can you refund this amount as I cancelled my subscription!",0.8211062550544739
+ylvbmy,"Refund request reason: Hi there,
+
+I am not using this enough.  I was just charged today for the subscription.  I cancelled it. May I please get a refund?
+
+
+Invoice No.: <NUMBER>",0.820578396320343
+mfjuuv,"Invoice no.: <NUMBER>
+
+Refund request reason: I cancelled the subscription today and it was charged please can you refund the amount as i have cancelled and cannot pay",0.8173927068710327
+xnai9o,"Invoice No.: <NUMBER>
+
+Refund request reason: I have canceled my subscription, please refund me the money. thank you",0.8139247298240662
+n5srm8,"Invoice No.: <NUMBER>
+
+Refund request reason: I meant to cancel my subscription before I was charged. I was charged yesterday and cancelled today so am really needing to get a refund.",0.793992280960083
+y02tql,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my subscription but was still charged.",0.791665256023407
+vlxbtg,"Invoice No.: <NUMBER>
+
+Refund request reason: I was not warned that I was going to be charged, or I would have canceled my account. I was just sent this bill today and canceled my subscription right away but I would like a refund. Thanks.",0.7895343899726868
+9odb3b,"Invoice No.: <NUMBER>
+
+Refund request reason: Did not cancel trial. I would like confirm I will receive a refund subscription which was charged & cancelled today, 1/9/21.",0.7882586717605591
+mad1it,"Invoice no.: <NUMBER>
+
+Refund request reason: I cancelled this subscription before I was billed and I was still billed. please refund my money thank you",0.7830047011375427
+ksyoht,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled the subscription, I am shocked that it still went through.",0.781379759311676
+uow888,"Refund request reason: Hi, I have cancelled my free subscription before the date of the paid subscription and I charged for it. Is it possible to get a refund for it?
+
+
+Invoice No.: <NUMBER>",0.7802680730819702
+v5780m,"Invoice no.: <NUMBER>
+
+Refund request reason: I already cancelled my pro subscription before renewal why still charge me",0.7761710286140442
+87qxmi,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, i had cancelled my subscription and have not opted for this charge.",0.7705880999565125
+810bgu,"Invoice no.: <NUMBER>
+
+Refund request reason: I had cancelled this subscription and I haven't been using it at all. I was charged today. I need a refund",0.7623165249824524
+nqit7i,"Invoice No.: <NUMBER>
+
+Refund request reason: cancelled subscription, but was still charged today",0.761555016040802
+4lb0gm,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled subscription on 19 December however have again been charged and subscription not cancelled.",0.7611830830574036
+xoqwbi,"Invoice No.: <NUMBER>
+
+Refund request reason: This subscription was cancelled to my knowledge and on Feb 2, it was charged.",0.7595450282096863
+b46we7,"Invoice No.: <NUMBER>
+
+Refund request reason: I want to cancel the subscription payment made please. I wont be using the serviceanymore and it charged for the whole year.",0.7577259540557861
+l9qjbb,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription was supposed to be canceled. Can I please have a refund? Thanks!",0.7571592926979065
+qu5b7k,"Invoice No.: <NUMBER>
+
+Refund request reason: I guess when I cancelled it didn't go through so I was charged. May I please get a refund?",0.7562547922134399
+2y9gmd,"Invoice no.: <NUMBER>
+
+Refund request reason: I have already paid the annual fee and cancelled my subscription however you guys charged me again after i have cancelled so i am requesting for a refund.",0.7555314898490906
+gfokoq,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled subscription last month why am I still being charged?",0.7542634010314941
+90u60b,"Invoice No .: <NUMBER>Reason for the refund request: I would like to be refunded, I had canceled my subscription before the payment date and I was still charged, I do not use canva, I can't pay $ 155, please I would like a refund, you can cancel the subscription! Thank you",0.7537094354629517
+8xgrs7,"Invoice No.: <NUMBER>
+
+Refund request reason: My account was charged automatically. I have now cancelled the subscription and would like a refund.",0.7530487775802612
+7rvg4t,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled this subscription and was still charged.",0.750747561454773
+ft6gfh,"Invoice No.: <NUMBER>
+
+Refund request reason: I signed up for the trial and cancelled my subscription before the trial was over.  Now I received an invoice <NUMBER>showing payment by my credit card. Please refund and cancel subscription.",0.7507070899009705
+dd1iba,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my subscription but was still charged",0.7503750920295715
+l7j62a,"Invoice No.: <NUMBER>
+
+Refund request reason: I was charged for this subscription even though I cancelled it the same day.",0.7467013597488403
+xs3ut5,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my subscription and still received a charge.",0.7449635863304138
+6wwi82,"Invoice no.: <NUMBER>
+
+Refund request reason: i cancelled my subscription on the day i was charged. Can i have my refund. Thanks",0.7432678937911987
+v4pkpx,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription was to be cancelled last year. After using it for one project I cancelled because I was not going to use it",0.74235999584198
+t48xuh,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my subscription but keep getting charged",0.7417697906494141
+c2d94x,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled the subscription so i am not sure why I am being charged. I would like a refund",0.7417051196098328
+om7ffc,"Invoice No.: <NUMBER>
+
+Refund request reason: I went to cancel subscription but it already charged.  I do not want this subscription.  Please cancel and refund.  Thank you.",0.7415372729301453
+613syx,"Invoice No.: <NUMBER>
+
+Refund request reason: i cancelled my subscription on 25th Jan itself then why you have charged me .. i need refund..",0.7407974004745483
+2l1met,"Invoice No.: <NUMBER>
+
+Refund request reason: I went online at my work place and cancelled this subscription, but yet it is showing that it did not cancel and I was charged? Please refund my money and cancel my subscription.",0.7371118068695068
+gjritx,"Invoice No.: <NUMBER>
+
+Refund request reason: I have just cancelled my subscription before I was charged on the same day . I am not sure why it proceeded to take such and amount out",0.7367452383041382
+gpribs,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello,
+I cancelled my Pro Subscription today. Can you please either cancel the payment or refund it. Thank you very much.",0.7350889444351196
+eheacx,"Invoice No.: <NUMBER>
+
+Refund request reason: I was about to cancel my subscription today when I found out it already get payment minutes before I can. Please cancel today - not on February - and please refund me. Thanks.",0.7332475185394287
+pfgha6,"Refund request reason: I canceled my subscription but was still charged.  Please refund.  
+
+Invoice No.: <NUMBER>",0.7326604723930359
+d6q1se,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled the subscription before I was supposed to get charged, but then it charged me anyway.",0.7304579019546509
+juk676,"Invoice No.: <NUMBER>
+
+Refund request reason: Please cancel my Pro subscription immediately and refund amount just charged. thank you!",0.7296009659767151
+d5iadp,"Invoice No.: <NUMBER>
+
+Refund request reason: I requested this to be cancelled two days prior to the charge. However, I was charged and rechecked and saw that my subscription didn't change.",0.7227987051010132
+9utrve,"Invoice No.: <NUMBER>
+
+Refund request reason: I was supposed to have a cancelled subscription but it keeps charging me.",0.722548246383667
+u61mg2,"Invoice No.: <NUMBER>
+
+Refund request reason: I was supposed to have a cancelled subscription but it keeps charging me.",0.722548246383667
+3dnmbu,"Invoice No.: <NUMBER>
+
+Refund request reason: I was supposed to have a cancelled subscription but it keeps charging me.",0.722548246383667
+bsnm5b,"Invoice No.: <NUMBER>
+
+Refund request reason: I was supposed to have a cancelled subscription but it keeps charging me.",0.722548246383667
+f2fl3i,"Invoice No.: <NUMBER>
+
+Refund request reason: I had previously cancelled my free trial subscription and today I recieved a charge for the subscription but I had already cancelled it",0.7194022536277771
+er48s9,"Invoice No.: <NUMBER>
+
+Refund request reason: I tried to cancel my subscription and their I didn’t see any subscriptions in my App Store. Now I see my PayPal account and I was charged?? Please refund",0.718904435634613
+f7iug6,"Invoice No.: <NUMBER>
+
+Refund request reason: Would not let me cancel my subscription for the trial. I finally could cancel after the charge can I please get a refund.",0.717237651348114
+w7rpyw,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello I canceled my subscription today and am hoping for a refund on the payment. Thank you!",0.7093924880027771
+4pl82u,"Invoice No.: <NUMBER>
+
+Refund request reason: Canceled subscription the same day. Please refund me and cancel this subscription. Email me as soon as this is done.",0.7044744491577148
+ca1va8,"Invoice No.: <NUMBER>
+
+Refund request reason: PLEASE HELP ME.... I had cancelled my subscription but it seemed that it ddn;t go through",0.7043063044548035
+r8qjhr,"Invoice No.: <NUMBER>
+
+Refund request reason: I want to get a refund as I didn’t know it was going to charge me on that day 
+I wanted to cancel the subscription since it was too expensive but it charged me before canceling it",0.703641414642334
+dl4n7r,"Invoice No.: <NUMBER>
+
+Refund request reason: Cancel my account. I want a refund please!! U charge me monthly and i dont use it and bo option to cancel my subscription. Please cancel thank you",0.7026582956314087
+46ygje,"Invoice No.: <NUMBER>
+
+Refund request reason: I could not cancel the subscription <NAME> time due to professional preoccupation. Now my card is charged. I have cancelled the subscription. Please  oblige and refund the subscription amount.",0.6982254981994629
+mlft0v,"Invoice No.: <NUMBER>
+
+Refund request reason: Cancel my subscription and refund my money. I have tried to cancel and it would not let me.",0.6948195695877075
+oqktiy,"Invoice No.: <NUMBER>
+
+Refund request reason: The recent charge for premium should not have gone through as I canceled the subscription prior. I just canceled it again. Can I have a refund please.",0.6940364241600037
+5t579y,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, I was hoping to cancel my subscription today, but I was charged before I was able to. Is it possible to still receive a refund and cancel the subscription? Thank you.",0.6895203590393066
+op995k,"Invoice no.: <NUMBER>
+
+Refund request reason: I had cancelled the subscription in the apple app. So I’m confused to see that I was still billed.",0.6894635558128357
+4lg937,"Invoice No.: <NUMBER>
+
+Refund request reason: I would like a refund. I tried to cancel before it ran today. I have already cancelled the subscription as well.",0.6889320015907288
+hu7635,"Invoice No.: <NUMBER>
+
+Refund request reason: Please refund the subscription that was charged today. I've cancelled my subscription.",0.6873699426651001
+aksky2,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled the subscription, but still charged.
+Could you guys give me more information about the condition of refund?",0.6835816502571106
+aegd9m,"Invoice number: <NUMBER>Refund request reason: I had already canceled the subscription and even then I was charged, I want a refund because I'm not using the site",0.6806151866912842
+2p1htu,"Invoice No.: <NUMBER>
+
+Refund request reason: I was charged and didn’t want to be. Can I get a refund and a canceled subscription?",0.6806021332740784
+ud321l,Invoice number: <NUMBER>Refund request reason: Hello! I had canceled the subscription days ago but today they charged me for the subscription. I want a refund and my subscription canceled.,0.6783056259155273
+oo9flp,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, I cancelled the PRO subscription (and had actually closed this account) last month. I was today charged the monthly fee. I would like to request a refund and confirmation that the subscription has been cancelled. Thanks",0.6760249137878418
+721y66,"Invoice No.: <NUMBER>
+
+Refund request reason: I Cancelled the subscription on the same day it was charged. Any way to receive a refund for this.",0.6711758971214294
+7dgygy,"Invoice No.: <NUMBER>
+
+Refund request reason: I wanted to cancel my subscription but I was charged . I domt wamt to use the subscription so please redund the money",0.6686106324195862
+s2bsvx,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled my subscription today and would like a refund for the charged year. Thank you.",0.6622777581214905
+b3fvju,"Invoice number: <NUMBER>Refund request reason: I had canceled the subscription (just to use the free month) and today I received the charge, and the subscription was also reactivated. I request a refund of the amount and cancellation of the subscription",0.6620517373085022
+0vfd9l,"Invoice No.: <NUMBER>
+
+Refund request reason: I would like to request a refund for my subscription. There wasn't a contact number to call to inform that I wanted to cancel my trial.",0.6567768454551697
+tao8qq,"Invoice No.: <NUMBER>
+
+Refund request reason: I was charged for a month subscription until 02/26 today but i will not be using it. I just canceled my subscription today",0.65653395652771
+xb3vm1,"Invoice No.: <NUMBER>
+
+Refund request reason: I should have cancelled the subscription from last month but I was able to until today",0.6497096419334412
+sucn60,"Invoice No.: <NUMBER>
+
+Refund request reason: We have not used the subscription and it continued to charge us, although I clicked to cancel in December.",0.6496326923370361
+nh6q8u,"Invoice No.: <NUMBER>
+
+Refund request reason: I was not given an email prior to my charge that I was going to be charged. There was no warning given that I should cancel my subscription. Please refund my money and cancel the subscription",0.6469868421554565
+wal9rj,"Invoice No.: <NUMBER>
+
+Refund request reason: I had requested a subscription cancellation but it still went through.",0.6443672180175781
+x4c8xv,"Invoice No.: <NUMBER>
+
+Refund request reason: Please refund and cancel my premium subscription. Thank you.",0.6413675546646118
+90pq33,"Invoice no.: <NUMBER>
+
+Refund request reason: I was about to cancel my subscription but I was already charged. Please refund and cancel my subscription I really need this fund.",0.636441171169281
+rwg80r,"Invoice number: <NUMBER>Refund request reason: I had canceled my subscription already in January, but I don't know why I am still registered today, and you have charged me for your subscription. I request a refund.",0.6295626163482666
+bvauhc,"Invoice No.: <NUMBER>
+
+Refund request reason: I already canceled the subscription 
+Please refund it back",0.6226293444633484
+2pk4k3,"Invoice No.: <NUMBER>
+
+Refund request reason: I just cancelled my subscription. Thanks",0.6196122169494629
+sioeg7,"Invoice no.: <NUMBER>
+
+Refund request reason: I would like to cancel the subscription I was debited for and request a refund. I have also canceled my subscription. Thank you.",0.6184117197990417
+feti4m,"Invoice No.: <NUMBER>
+
+Refund request reason: I was not notified of the subscription made.",0.6130390167236328
+a4g3be,"Refund request reason: I cancelled my subscription and you still charged me
+
+Invoice No.: <NUMBER>",0.6086449027061462
+qiycki,Invoice number: <NUMBER>Refund request reason: I already requested cancellation of the subscription and today I was charged again! I want the cancellation and refund of the undue charge!,0.6081046462059021
+3saptc,"Invoice No.: <NUMBER>
+
+Refund request reason: Canceled subscription, but was still charged.",0.6069823503494263
+e3a6jk,"Invoice No.: <NUMBER>
+
+Refund request reason: I was under the impression that I had cancelled my subscription.",0.6058910489082336
+79l69d,"Invoice No.: <NUMBER>
+
+Refund request reason: I had chosen to cancel this subscription before the charge date but my cancellation was not applied to my account resulting in this charge. Although I followed the correct steps to cancel this subscription before being charged and was still charged the full amount, I am requesting a full refund.",0.6051642894744873
+wj1gpn,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not request or make any subscription. Why was this charged?",0.6026796102523804
+ix3oqy,"Invoice No.: <NUMBER>
+
+Refund request reason: hello i need to refund and cancel my subscription please",0.5932328701019287
+bmljaf,"Invoice No.: <NUMBER>
+
+Refund request reason: I was going to cancel my subscription today before the trial was up and I was charged before cancelled. I don't want to use the service from today on. Can I have this refunded and no access from today on?",0.5822998881340027
+yk60y8,"Invoice No.: <NUMBER>
+
+Refund request reason: subscription payment refund, subscription canceled today itself.",0.5807552933692932
+s6dh7a,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription was supposed to be cancelled.",0.5782241225242615
+1t7wo5,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled this subscription.",0.5692551732063293
+bem4f2,"Invoice No.: <NUMBER>
+
+Refund request reason: I am not using Canva, was charged today and am cancelling my subscription",0.5660815834999084
+ah9fus,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not realise my subscription was active. I was meant to cancel.",0.5643312335014343
+owgt87,Invoice number: <NUMBER>Reason for the refund request: I had until Today to cancel my canav subscription or I was already invoiced I have just canceled my subscription I would like to request a refund s 'please Thank you Regards <NAME>,0.5634063482284546
+rx18q4,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled subscription and somehow still getting charged .",0.5623230338096619
+w50ngk,"Invoice No.: <NUMBER>
+
+Refund request reason: I requested a cancellation and i was still charged please cancel this now and refund me",0.5616282224655151
+uaes2o,"Invoice number: <NUMBER>Refund request reason: I was supposed to cancel the subscription before the trial period is over, but I don’t know why I haven’t cancelled it yet. Hope to help refund and cancel subscription.",0.5601791143417358
+0rqlxk,"Refund request reason: I canceled in the same day you charged, please, refund as as possible!!!
+
+Invoice No.: <NUMBER>",0.5568634867668152
+sy1ieq,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription was not used. Subscription was canceled",0.5561035871505737
+d2mkh5,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription canceled. I need a refund.",0.555102527141571
+49ws3n,"Invoice no.: <NUMBER>
+
+Refund request reason: Subscription refund. Cancelled subscription then was charged",0.5548818707466125
+h7epf0,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription cancellation refund",0.5538569688796997
+pjyp37,Account number: <NUMBER>Refund request reason: Can I cancel <NAME> subscription and get a refund? Refund request and subscription cancellation,0.5480273962020874
+c5cjc9,"Invoice No.: <NUMBER>
+
+Refund request reason: I should not have been charged today. Please refund. Thanks!",0.5476206541061401
+o34id1,"Invoice No.: <NUMBER>
+
+Refund request reason: I meant to cancel before I was charged. Can I please get a refund? I don’t use canva",0.5394812822341919
+eo1h3o,"Invoice number: <NUMBER>Refund request reason: Yesterday I requested the cancellation of the subscription, however, today it was listed as not canceled and I was charged the amount, I would like to request a refund.",0.5384933352470398
+cu8voe,"Invoice No.: <NUMBER>
+
+Refund request reason: Please cancel my subscription and refund the card that was charged.",0.5331434607505798
+xreskr,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription cancelled incorrectly.",0.5305233001708984
+jtjd68,"Invoice No.: <NUMBER>
+
+Refund request reason: i canceled my subscription
+please send me a refund",0.5250475406646729
+nk4idl,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi I cancelled canvas before the charge was issued and I see the charge was issued anyway. I would like a refund for the full amount of the charge. I cancelled for a reason.",0.5231474041938782
+5j3h01,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription was supposed to be charged on Feb 7th and I was planning on cancelling today on the 6th but was still charged despite still having a day left.",0.5115041732788086
+7dy6ck,"Invoice number: <NUMBER>Refund request reason: My card was charged before I was able to cancel the subscription. I'm not using it, I want a refund of that amount.",0.5081418752670288
+k64ipm,"Invoice No.: <NUMBER>
+
+Refund request reason: I tried to cancel my subscription before I was charged but it didn't go through.",0.5061935186386108
+uwyy38,"Invoice No.: <NUMBER>
+
+Refund request reason: I need a refund because I cancel m subscription",0.4984549582004547
+1d9x00,Invoice number: <NUMBER>Refund request reason: Your subscription was processed regardless of your intention. Please refund and cancel your subscription.,0.4958459138870239
+co9f7q,Invoice number: <NUMBER>Refund request reason: I requested cancellation of the subscription and was charged,0.4938550591468811
+ebsfat,Invoice number: <NUMBER>Reason for the refund request: I canceled my subscription but I was still invoiced! Can i be reimbursed,0.493740051984787
+ykpws5,"Invoice No.: <NUMBER>
+
+Refund request reason: This was suppose to be canceled after free subscription.",0.4903416335582733
+8th1cd,"Invoice No.: <NUMBER>
+
+Refund request reason: I had canceled this subscription and I do not understand why I am being charged again for it. Please refund the payment and cancel the subscription. Thank you very much.",0.4892210066318512
+i9tda2,"Invoice No.: <NUMBER>
+
+Refund request reason: Requesting a refund, subscription cancelled today.",0.4891429543495178
+8audl0,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my subscription but was still charged. The invoice number is <NUMBER>",0.48867255449295044
+sesacg,Invoice number: <NUMBER>Refund request reason: I had already canceled the subscription and I was charged!,0.4855000674724579
+jenp0f,"Invoice No.: <NUMBER>
+
+Refund request reason: Not using app - was automatically charged today.  Please refund",0.4852950870990753
+3fx8ue,"Invoice No.: <NUMBER>
+
+Refund request reason: cancelled subscription",0.4852450489997864
+vetb1q,"Invoice number: <NUMBER>Refund request reason: I canceled my subscription but I received a charge yesterday, today I canceled it again, please make a refund of the amount charged. thanks",0.48170557618141174
+t8dv7j,Refund request reason: I canceled my subscription but was charged anyway. Account number: <NUMBER>,0.47742486000061035
+3hnrej,"Invoice no.: <NUMBER>
+
+Refund request reason: I previously cancelled but still have been charged.",0.46611297130584717
+2a8nt1,"Invoice No.: <NUMBER>
+
+Refund request reason: I have never had an annual subscription running nor did I request one. Not sure how this subscription was activated. Please cancel and process a refund.  Thanks",0.46067824959754944
+1updwu,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my subscription",0.46060508489608765
+y9vxcb,"Invoice no.: <NUMBER>
+
+Refund request reason: subscription payment refund was charged before i was able to cancel the subscription",0.4481991231441498
+0ooq82,Invoice number: <NUMBER>Refund request reason: Has the subscription been cancelled or charged,0.4476185441017151
+5jy1pi,"Invoice No.: <NUMBER>
+
+Refund request reason: i cancelled this back in November. Why was i charged?  CANCEL please",0.44719505310058594
+w33tf2,"Invoice No.: <NUMBER>
+
+Refund request reason: I had cancel my subscription and still charged me",0.4459128975868225
+7up4gx,"Invoice No.: <NUMBER>
+
+Refund request reason: I don’t have money and I need to cancel my subscription",0.445507287979126
+3afbsv,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription was supposed to be canceled. For some reason, it did not & I had to cancel it again.",0.443529337644577
+waajmo,"Refund request reason: I cancelled this immediately the same day because it was NOT what I was looking for. Please cancel and refund my payment. 
+
+Invoice No.: <NUMBER>",0.4391407370567322
+c9q2au,Invoice No.: <NUMBER>Refund request reason: Please refund and cancel the structure for the subscription payment.,0.4374144673347473
+ei7kgu,"Invoice No.: <NUMBER>
+
+Refund request reason: My paypal was charged 649pesos today by Canva. I already canceled my subscription last year. Requesting for a refund.
+Transaction ID: 1JC<NUMBER>B",0.4334314465522766
+4t1tdw,"Invoice No.: <NUMBER>
+
+Refund request reason: I was charged for a subscription after I requested to cancel.",0.4297714829444885
+hdioeh,Invoice #: <NUMBER>Refund request reason: I couldn't cancel the subscription and my credit card was charged. Please request cancellation of payment,0.42838457226753235
+cyf3t8,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription payment refund & please cancel subscription.",0.42718538641929626
+rgrtda,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled this, I don't understand why I have been charged.",0.4253193140029907
+r1sutt,Invoice number: <NUMBER>Reason for the refund request: I canceled the subscription but I was billed,0.4227694272994995
+mjyvxy,Invoice number: <NUMBER>Refund request reason: Hello Canva! I canceled the subscription and I was still charged.,0.4186447858810425
+fj1ib0,"Invoice No.: <NUMBER>
+
+Refund request reason: Cancelled day before payment went through, and still was charged",0.41112974286079407
+0t9073,Account number: <NUMBER>Refund request reason: Money was charged for a subscription that was made by mistake. I ask for a refund and cancel your subscription.,0.41057053208351135
+m4n4p9,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi there. I was meant to cancel my subscription before. I also haven't used it. Kind regards",0.4064175486564636
+qfgee6,"Invoice No.: <NUMBER>
+
+Refund request reason: Cancel subscription and refund",0.4060553312301636
+x1lemn,Invoice number: <NUMBER>Reason for the refund request: I canceled the subscription and you invoiced,0.40376749634742737
+6xcafh,Invoice number: <NUMBER>Refund request reason: I made the cancellation on 10/12/2020 until today they are charging me until today I want the cancellation and refund on the invoice please,0.4036373496055603
+7w2405,Invoice number: <NUMBER>Refund request reason: I need to cancel my subscription and in the same way I need a refund,0.3954007029533386
+bv3d3f,"Invoice No.: <NUMBER>
+
+Refund request reason: My account has been canceled I'm unsure why I was charged. I logged in make sure my subscription was canceled and it said I had no active subscriptions",0.39407098293304443
+92xe7k,"Invoice No.: <NUMBER>
+
+Refund request reason: this subscription was a mistake",0.39310288429260254
+xwgiju,"Invoice No.: <NUMBER>
+
+Refund request reason: Canceled, but I was charged. Please refund.",0.3911644518375397
+9s3ujv,Invoice number: <NUMBER>Refund request reason: I already canceled the subscription and they are still charging.,0.3892805576324463
+t8n2rt,Invoice #: <NUMBER>Refund request reason: My payment was charged but I had already canceled my subscription.,0.38300520181655884
+m9bpjd,"Invoice No.: <NUMBER>
+
+Refund request reason: I received an email indicating that my subscription would renew and it gave me the option to cancel. I clicked cancel but was still billed. 
+
+Please cancel my subscription. Thank you.",0.3785998225212097
+7xnjed,"Invoice No.: <NUMBER>
+
+Refund request reason: I have been charged for a free subscription",0.3762565553188324
+ebqudo,"Invoice number: <NUMBER>Refund request reason: I had asked for the cancellation of the charge before the deadline, an email was sent to confirm the cancellation, however the charge was made nonetheless; I request a refund of the amount.",0.37288349866867065
+7qjbjs,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled this plan and am still being charged... <NUMBER>",0.371354877948761
+rpr91t,"Invoice No.: <NUMBER>
+
+Refund request reason: I have not been using and had no idea I was going to be charged.",0.3707940876483917
+c9jctf,"Invoice No.: <NUMBER>
+
+Refund request reason: I have canceled and still was charged. I would like a refund.",0.3690142035484314
+rkkor4,"Invoice No.: <NUMBER>
+
+Refund request reason: Went to cancel the subscription and it has already charged me.",0.3682529628276825
+43jqr2,"Invoice No.: <NUMBER>
+
+Refund request reason: Please cancel and refund the $119.49 from invoice #<NUMBER>
+I tried to cancel the subscription a few days ago in account settings and it said I had no active subscriptions. I do not want the subscription. Please cancel and refund. Thank you so much,
+Sara Hughes
+sarasweetsbakery.com
+(813) <NUMBER>",0.36766427755355835
+o83qwy,"Invoice No.: <NUMBER>
+
+Refund request reason: Cancelled subscription right after I started it",0.3621154725551605
+dxcybp,"Invoice No.: <NUMBER>
+
+Refund request reason: I was charged 112 when I cancelled my subscription",0.35544249415397644
+qgq1n4,"Invoice No.: <NUMBER>
+
+Refund request reason: I was billed 1 minute before I was able to cancel subscription",0.3531961143016815
+naqnah,"Invoice number: <NUMBER>Refund request reason: I'm sure I canceled all subscription, but they charged me again for 2 months.",0.34679508209228516
+kur4jj,"Invoice No.: <NUMBER>
+
+Refund request reason: The subscription was a mistake and I would like to cancel it.",0.34371867775917053
+rpmaue,"Invoice No.: <NUMBER>
+
+Refund request reason: cancel subscription please, thank you.",0.3325830101966858
+gack6g,"Invoice No.: <NUMBER>
+
+Refund request reason: This was suppose to be cancelled.",0.3274795711040497
+n5qfi6,"Invoice number: <NUMBER>Refund request reason: I canceled the subscription but I was charged. Please cancel that charge, at this time I cannot pay.",0.3259962201118469
+0e6wb4,"Invoice No.: <NUMBER>
+
+Refund request reason: Unauthorized charge, cancel subscription",0.3254512548446655
+08gtob,Invoice number: <NUMBER>Refund request reason: I had canceled and I was still charged. I would like a refund and cancel.,0.3116287291049957
+rxfnii,"Invoice No.: <NUMBER>
+
+Refund request reason: I though I had up until today to cancel subscription, but was charged before I could login to cancel.",0.3105664849281311
+6v16pr,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled.",0.3081320524215698
+i8yiev,"Invoice No.: <NUMBER>
+
+Refund request reason: I tried to cancel my subscription and it charged me",0.30597245693206787
+a674yt,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled, why am I still being charged I have proof of cancellation.",0.3044911026954651
+yk6ifn,"Invoice No.: <NUMBER>
+
+Refund request reason: Tried to cancel after the trial but could not. Was able to cancel today",0.28054457902908325
+wtt39j,"Invoice No.: <NUMBER>
+
+Refund request reason: Cancelled on the day it was supposed to renew and was still charged",0.27948805689811707
+en9sc2,"Invoice No.: <NUMBER>
+
+Refund request reason: I was a bit late in cancelling the subscription, the time zone was unclear on when the subscription would be charged",0.26398029923439026
+spit38,"Invoice No.: <NUMBER>
+
+Refund request reason: This was cancelled",0.23948374390602112
+hrndm2,"Invoice No.: <NUMBER>
+
+Refund request reason: Do not need the subscription",0.2164245843887329

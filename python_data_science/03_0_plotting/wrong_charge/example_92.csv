@@ -1,0 +1,74 @@
+feedback_id,examples,confidence
+kr1ybk,"What is your problem ?: Other Describe the problem: Can I get a refund for my subscription? I forgot to cancel and the card was debited yesterday, can I get my money back and deactivate my subscription?",0.9341541528701782
+uc0s70,"Invoice no.: <NUMBER>
+
+Refund request reason: I canceled my Canva Pro Subscription a few days ago. The message said it'll be deactivated today, but you billed my card instead. I'd like to get my money back.",0.8946098685264587
+9m8g9t,"What kind of problem?: Other
+
+Describe your issue: I am waiting for a reply about my deactivated account!
+You have been taking payments out and now you have cancelled my pro subscription!
+I need someone to contact me to refund the money you have been taking for no reason!",0.8368790149688721
+0bbk1w,"What kind of problem?: Other
+
+Describe your issue: I was looking at the trial version. I forgot to deactivate it later. Money has been deducted from my card. Honestly I didn’t realize it was going to be automatic, Please refund me my money that day",0.8031179308891296
+lfwsgu,Account number: <NUMBER>Refund request reason: Did not manage to cancel auto-renewal of subscription. I want to deactivate my subscription and get my money back.,0.7804840207099915
+nebwjt,"Raison de la demande de remboursement: I don’t want to continue Canva and it has been deducting money every month without my permission. Please refund my amount and deactivate this account immediately 
+
+N° de facture: <NUMBER>",0.7180434465408325
+pph92x,"What type of problem is it ?: Other Describe the problem: My subscription was automatically deactivated from my cell phone and they charged me in the same way, they have not returned the money to me to be able to activate the subscription again.",0.6952937841415405
+b76fv9,"Describe the problem: Good morning, sorry but I have received a charge, however I am not subscribed to Canva Pro. I did not do more than a test and then I deactivated it, I have checked it and it does not appear that I have any subscription, can you please refund me. thanks. What was your problem ?: Canva Pro",0.6857202649116516
+6g2t89,"What was your problem ?: Canva Pro Describe the problem: My subscription was deactivated one day after I was automatically charged for the month. I checked to see if said money had been returned to me in order to reactivate said subscription, but to this day I still do not see the money to activate it again. I need an answer soon.",0.6725561618804932
+o0w3ud,"Invoice no.: <NUMBER>
+
+Refund request reason: I tried to cancel before and it clearly didn’t work. Please could you do me a massive favour and return my money, you can deactivate my account, do whatever you have to do but please can you refund me my last subscription payment. Thanks",0.6269514560699463
+1986av,"What kind of problem?: Other
+
+Describe your issue: I deactivated my account since I haven't used it in a few months and keep getting charged. Is there any way to get a refund? I am unemployed and need all the money I have during this time especially with the pandemic.",0.6253800988197327
+obxhj4,"What kind of problem?: Other
+
+Describe your issue: Hi there,
+
+I deleted my account and checked the subscriptions before so and there was nothing that said I needed to “unsubscribe” or anything before the invoice date. I signed up to canva to check it out but it didn’t actually provide me with what I needed so I didn’t use it and deleted/deactivated my account before the invoice date yet I have had to re-activate my account now that I have been charged to complain about this. I am not in a financial position to just let this money leave my account. Can someone please help me with a refund and re-deactivating my account and all services?",0.6234715580940247
+1yk6yo,"What kind of problem?: Other
+
+Describe your issue: Your Canva Support Request Id: <NAME>>ID-ldglke | Other, Hi, I opened an account and active the free account using my PayPal after that I deactivated because I felt It's not worth for me. Today Canva made the payment 155.88 CD from my PayPal. I don't know how it was happened. Please try solve the problems and if you can refund my money back",0.6226633191108704
+feupef,"What kind of problem ?: Other Describe the problem: Hello, I forgot to cancel my subscription and I was deducted € 11.99 today. Could you book it back for me and deactivate my account for canva pro? Kind regards, <NAME> Nur Sakar",0.5723403096199036
+tjb0om,"Invoice number: <NUMBER>Refund request reason: I never accepted that they would charge me that amount and I do not even know what it is since I have deactivated my subscription, for not having money to spend on this issue at the moment. Please refund me and delete my account and data so that they are charging me. When I can pay for the service I will enter my card again.",0.5433493256568909
+64xpy6,"What kind of problem?: Other
+
+Describe your issue: You are still charging me for a deactivated account. 
+Hurry up and give me a refund",0.4302997291088104
+n3oki3,"Invoice No.: <NUMBER>
+
+Refund request reason: I would like to deactivate Canva and receive a refund. I longer use it.",0.4102059602737427
+40v5wo,"What kind of problem?: Other
+
+Describe your issue: Still beings charged for Canva even though I no longer use the program. Please refund me for the month of January and deactivate my account.",0.39145028591156006
+x1keot,"Invoice number: <NUMBER>Refund request reason: a few days ago a refund request was made because the pro version was activated and they told me yes, then I received another message that the money had never entered canva, to which I responded with panatalla capture that they have already debited the second installment of the deferred and canva has since been deactivated.",0.37964463233947754
+32lxuu,"Invoice No.: <NUMBER>
+
+Refund request reason: I do not recall signing up for any subscription that would have a fee associated with it.  I do in app purchases where I occasionally purchase stock photos.  Would you consider refunding the 12.95 fee please.  I logged into my account and deactivated everything I saw.",0.371453195810318
+4mce7m,"Invoice No.: <NUMBER>
+
+Refund request reason: Why am I being charged? The payment was due on Jan 12, it’s January 11. Please return the money. I want the money, not a credit. I was planning on canceling it before 12 am and I got charged anyways!!! Also, the website is not giving me the option to,  “Deactivate Account”, it’s forcing me to delete my account and I don’t want that, can you please solve this situation.",0.3543258607387543
+33838q,"What kind of problem?: Other
+
+Describe your issue: I deactivated my account, yet I was still billed for a subscription.",0.29527705907821655
+m5weyi,"What kind of problem?: Other
+
+Describe your issue: This refund request is for my other account that is linked to my Facebook. That account's email has been deactivated, so I cannot access my refund request forms. The invoice number is <NUMBER>for 238.80$. With the same story, I was charged for a massive year subscription that I do not even use at all. I remember setting a reminder to cancel the subscription before my free trial was completed, and it still charged me for the entire year. I did not use Canva at all since then, and even if I did, it was not using pro features. Please help me out. I love Canva so much, but this is truly a mistake.",0.2630017399787903
+ldglke,"What kind of problem?: Other
+
+Describe your issue: Hi, I opened an account and active the free account using my PayPal after that I deactivated because I felt It's not worth for me. Today Canva made the payment 155.88 CD from my PayPal. I don't know how it was happened. Please try to find the problems with my account. I'm prefer to get the refund. Thank you.",0.243807852268219
+63gyva,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, 
+I deactivated my pro account on the 22nd and didn't use the Pro features in the second month, however My card was charged on the 25th. 
+Please refund this amount.
+
+thank you!
+Angela",0.2084343135356903
+ons2fs,What kind of problem is it ?: Others Describe the problem: I used the premium option and then canceled it due to all the errors in the app but the charge persists even though I canceled the subscription and need to deactivate it,0.1855030506849289
+fj73u1,"What kind of problem?: Other
+
+Describe your issue: I had an account that was deactivated because my debit card expired. Is there anyway that I can get my designs back?",0.15909291803836823

@@ -1,0 +1,325 @@
+feedback_id,examples,confidence
+kltaxr,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, I already requested the refund for this invoice, it said fully refunded but I never got my money back. The payment  was a mistake, I was in the middle of my 3-month trial and the payment was made automatically for no reason.The Pro subscription was canceled immediately, but I never got my money back, I would like my money back. Thank you",0.9301150441169739
+g105fq,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my subscription but got charged the money and it appears as thought my account still says I'm subscribed.... For some reason it didn't go through.",0.9045274257659912
+oy7yt7,"Invoice no.: <NUMBER>
+
+Refund request reason: I don't want to use Canva Pro and want a refund for this charge as in thought I have free subscription till 15th January and I got charged before the day of 15th ended.",0.9032402634620667
+gn7jm4,"Invoice No.: <NUMBER>
+
+Refund request reason: I got the free trial to use it for work and I was gonna cancel it today because today was supposed to be the last day of the trial but I just got charged $119.40 for it and now my bank account is in the negatives.. I can’t even work right now due to medical problems and I have no use for it. Can I please get a refund?",0.901934802532196
+44vv02,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello im not interested in using canva at the moment and i got charged when i have no money in my bank account. I cancelled the subscription but it already went through. Can i pls be given a refund? Thank you",0.8970478177070618
+ldgcyj,"Refund request reason: Hello,
+
+i got charged today by accident. i wanted to end my trial subscription today and accidentally charged my credit card. im cancelling the service and i wont use it after today. please refund me. regards, <NAME>
+
+Invoice no.: <NUMBER>",0.8759634494781494
+dcky6h,"Refund request reason: I cancelled my subscription few days back but it got rejected and today it was charged, i want cancel my subscription as i did tried to cancel it but due to the technical issues it got rejected and i have been charged.
+I kindly request to have a refund
+Thank you
+
+Invoice no.: <NUMBER>",0.8722494840621948
+wa5hbi,"Invoice No.: <NUMBER>
+
+Refund request reason: I went in and cancelled my subscription, and still got charged. Please refund the purchase and make sure my account is no longer on premium if it is.",0.8710413575172424
+lfmtmg,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my subscription back in December and still got billed for your service. I remember putting reason for cancelling subscription: great product but don't have the use for it now. Please reimburse me for the $12.95 I got charged 5 minutes ago or will classify this charge as FRAUD.",0.8539170622825623
+ayqsvd,"Invoice No.: <NUMBER>
+
+Refund request reason: I just got notified that i got charged by Canva. I was not aware that I subscribed to your service. I have no plan to use your service anytime soon. Would it be possible to get a refund?",0.8532260656356812
+lf9kli,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled Pro subscription but still got charged. Please proceed the refund. Thank you.",0.8529138565063477
+e9bs0u,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription got automatically got renewed (after free trial), I would like to ask for a refund and cancel my subscription.",0.8328310251235962
+vit0k9,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, please I would like to request a refund for this charge. I cannot afford it. I cancelled the subscription, but I still got charged so apparently the cancellation did not complete on your end. Please I would like it refunded as I do not use the service and cannot afford the monthly fee. I just got an overdraft and that is how I came to know subscription was still active. Thank you for your kind coo-operation.",0.8271481394767761
+r3no01,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my free subscription days after getting it but it didn’t seem to have processed and I just got a notification that I was charged",0.8255324363708496
+kpkfhf,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my subscription but still got charged this month",0.8245668411254883
+0qfyql,"Invoice no.: <NUMBER>
+
+Refund request reason: I had a trial and missed trial cancellation date and haven't used my account after I got charged",0.8242709040641785
+k7hv05,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled this already. Got confirmation. Logged in today to see the subscription back on my account. I feel I am owed a refund",0.8179370164871216
+8uhmk8,"Invoice no.: <NUMBER>
+
+Refund request reason: Hi, 
+
+I tried Canva PRO to see if that could help me further in my work. It could not, so I decided to not continue with Canva PRO. 
+
+Then i got sick in Covid-19 and did not remember to cancel this. Now when I got I can see you charged me for ONE year. 
+
+I won't use Canva PRO at all and wonder if it's possible to get my money back? I know I should have cancelled it, but as I got sick I did not think of it. I can pay for one month, but please what can be done with the yearly payment? 
+
+I'm looking forward to your reply. 
+/Robin",0.8161343932151794
+dxr861,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello. I accidentally forgot to cancel my free subscription and got charged. I canceled it the day after i noticed i got charged and i have not used this website at all. I was wondering if there was any chance i could get a refund? Thank you for your time.",0.8069888353347778
+77aab5,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, Canva charged me for the subscription since I had not cancelled my previous payment method and it got automatically renewed. Kindly refund me back the same amount. Thanks a lot.",0.8060594201087952
+v6bbnn,"Invoice No.: <NUMBER>
+
+Refund request reason: I subscribed for the free trial then got charged without notice, is there a way to do a refund and cancel subscription?",0.80234295129776
+m5s7vx,"Invoice No.: <NUMBER>
+
+Refund request reason: I have never signed up for this service.  Must have somehow got tricked into auto renewal.  I want to cancel and want the charge for 2021 refunded.",0.797514021396637
+cucf43,"Invoice no.: <NUMBER>
+
+Refund request reason: Hey I cancelled my free trial but still got charged :( 
+Can you please help me thanks in advance!
+Kind Regards",0.7972928285598755
+a8smv0,"Invoice No.: <NUMBER>
+
+Refund request reason: I requested my subscription be cancelled prior to me being charged. So I am confused as to why I still got debited. 
+Please help
+Many thanks,
+<NAME>",0.7910513877868652
+v1v8qm,"Refund request reason: Hi, I forgot to cancel my subscription and got charged this evening, is it possible for me to get a refund? Thank you!
+
+Invoice No.: <NUMBER>",0.7898533940315247
+f7da87,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, I cancelled my automatic subscription earlier in December and I don't know why it didn't actually cancel and I got charged for it today. Please advise if I can get this refunded and my subscription cancelled. Thank you!",0.7896981239318848
+3twyvl,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled my subscription, but I still got charged. If you look you’ll see I didn’t even use canva in January",0.7893314957618713
+5fxlij,"Invoice No.: <NUMBER>
+
+Refund request reason: I forgot to cancel the subscription and got billed. I don’t need this service at the moment. Please refund back.",0.7846757173538208
+8hrynx,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, 
+I was going to cancel this subscription on Monday when I went to work, but I just got charged. I went in and canceled, but I do not need it (Jan-Feb) - can I please get a refund of what was just charged.
+thank you,
+Grace",0.7811013460159302
+opvm29,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled my subscription way before the day it was supposed to get renewed, so I am not sure why I just got charged for this invoice. Is there any way I can get a refund, since I originally canceled before, I am sure why the cancellation didn't go through before.",0.7696728110313416
+a5lw77,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription automatically renewed and I cannot afford it right now. I didn't realize that it would charge me for the entire year. I already canceled my subscription once I got the charge.",0.7614249587059021
+89p1uk,"Invoice No.: <NUMBER>
+
+Refund request reason: My laptop was acting up and i accidentally got charged for canva pro. I cancelled it immediately after. There was no prompt to make sure i want to make payment. Please fix this and issue my refund.",0.758121907711029
+cpethh,"Invoice No.: <NUMBER>
+
+Refund request reason: Never got a refund for this unused subscription that I canceled day after renewal date",0.7505666017532349
+4e0st4,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, my free trial automatically updated to a subscription and i got charged. I canceled it as soon as i saw the charge because i don't use canva much and had no intention of purchasing the pro membership. can i have a refund please?",0.7499933838844299
+wxm37j,"Invoice No.: <NUMBER>
+
+Refund request reason: I thought i cancelled my subscription before the billing date and it looks like i still got charged and would like to know if i can get a refund on that please",0.7463331818580627
+m9ipvb,"Invoice No.: <NUMBER>
+
+Refund request reason: I had cancelled my subscription but still got charged",0.7445092797279358
+q3aoiq,"Invoice No.: <NUMBER>
+
+Refund request reason: I got a free trial and forgot.  Was charged the next month which sucks bc I never used it.  I realize this is my fault but hoping I can get a refund.  Have cancelled now.  Thank you!",0.7381963729858398
+qdrcjk,"Invoice No.: <NUMBER>
+
+Refund request reason: I already cancelled my account a month ago. I still got charged without any confirmation of account cancellation. I need to submit if I want to cancel my account? Wait until you get back to me which did not happen and still got charge? Does that make sense? I want my refund now and my account officially cancelled. 
+
+Thank you.",0.7352638840675354
+dxj7n6,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello. My subscription renewed after the trial. I canceled it and as I had not used or needed the services since the initial trial. I got a second charge on my account on <NUMBER>but all should have been canceled already.",0.7346659302711487
+y5cmf4,"Číslo faktury: <NUMBER>
+
+Refund request reason: Hello, 
+
+I just wanted to try out Canva Pro and cancelled the subscription. Somehow it got activated and today I got charged for yearly subscription.
+
+I wouldn't use it. Please cancel and refund. Thank you.",0.7317224144935608
+p8bnv1,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled this subscription and I still got charged. Please refund",0.7304490804672241
+wybkut,"Refund request reason: Hi, I just got charged for my subscription but I wont have enough funds in my account this month. I was wondering if I could get a refund? 
+
+Invoice No.: <NUMBER>",0.7279502749443054
+e5rsc9,"Invoice No.: <NUMBER>
+
+Refund request reason: You charged me without authorization!! How is that fair?? I logged into my account to use regular canva (not pro) and I automatically got charged for a yearly subscription!!! I need a refund, now.",0.7263004779815674
+ppdout,"Invoice No.: <NUMBER>
+
+Refund request reason: I thought I had canceled this but still got charged.  I have not used Canva in many months and in these times do not want to spend money on something I do not use.  I greatly request you refund the charge from today!",0.7259865999221802
+3ntxhp,"Invoice no.: <NUMBER>
+
+Refund request reason: I cancelled my subscription already and haven't reactivated it. Not sure why I got billed.",0.7256343960762024
+la0kin,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello I had cancelled the subscription But yet I got charged, please help me canva and refund this charge I am very concerned and stressed out",0.7197487950325012
+50he9o,"Invoice No.: <NUMBER>
+
+Refund request reason: I need to cancel my subscription please and I need a refund to the charge I just got today.",0.7150894403457642
+pkibyg,"Invoice No.: <NUMBER>
+
+Refund request reason: I had canceled my subscription and still got charged?",0.7091791033744812
+o0jck3,"Invoice No.: <NUMBER>
+
+Refund request reason: I had canceled my subscription before the charge date and I still got charged.",0.7024260759353638
+f4l2wx,"Invoice No.: <NUMBER>
+
+Refund request reason: I tried to cancel auto renew but got charged I want this reversed and refunded please! Also cancel my membership.",0.701330304145813
+v07q2r,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled my subscription and still got charged and even when I have used it, it was my educator account. I did not do premium. I would like to keep using canvas without the charges and refund for this charge",0.7008254528045654
+btsw1v,"Invoice No.: <NUMBER>
+
+Refund request reason: I didn't realize you could charge my card without otp. But it got charged today so I cancelled and want a refund",0.6912361979484558
+clynt8,"Invoice No.: <NUMBER>
+
+Refund request reason: Please refund as I got charged on the date I cancelled the subscription.",0.6881355047225952
+g8u0rh,"Invoice no.: <NUMBER>
+
+Refund request reason: I subscribed for the free trial but cancelled it today however got charged, I am unable to pay for the yearly membership due to economic <NAME> and I will appreciate a full refund or alternatively to charge me a month's use instead.  I appreciate your help",0.6774906516075134
+aijfr3,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, I believe someone has been using my information, I got charged today then I checked my email and saw your messages. Can I please get a refund and cancel any subscription that I have please. Your help will be appreciated. Thank",0.6658610701560974
+rbmadv,"Invoice No.: <NUMBER>
+
+Refund request reason: Signed up for a free trial and immediately got charged.",0.664994478225708
+h8ndhi,"Invoice No.: <NUMBER>
+
+Refund request reason: I thought I had canceled my free trial but seeing as I got charged I didn’t! I really am hoping for a refund if you can",0.6519670486450195
+6u2qrb,"Invoice No.: <NUMBER>
+
+Refund request reason: Today I got a message that the subscription got renewed automatically. And I meant to cancel it but i forgot it. Could you refund this?",0.6474062204360962
+8h9qkh,"Invoice No.: <NUMBER>
+
+Refund request reason: I just got the invoice for my subscription. I was under the impression that I was wanna get an email before the renewal of my subscription. Can I cancel now and get a refund?
+Thank you, <NAME>",0.6361377835273743
+072hjp,"Invoice No.: <NUMBER>
+
+Refund request reason: It's not yet 1 month since I subscribe to canva, why I got charge? I forgot to cancel my subscription, please refund the payment. Thank you.",0.6339480876922607
+01dawh,"Invoice no.: <NUMBER>
+
+Refund request reason: Good morning, 
+
+I would like to request a refund as I believe I cancelled it before the renewal, but got charged anyway. Thank you.",0.6217308640480042
+hx9wkf,"Invoice No.: <NUMBER>
+
+Refund request reason: I was just testing the trial version and got charged this. Please consider and give me a refund!",0.6195552349090576
+9qjruh,"Invoice no.: <NUMBER>
+
+Refund request reason: I have already requested a refund as I cancelled the subscription and still got charged.  Awaiting on a response please.",0.6178467273712158
+599kdt,"Invoice No.: <NUMBER>
+
+Refund request reason: I was not notified that I got charged. I forgot to cancel the trial. I got charged automatically and was not aware it was renewed. I do not need this service at the moment and I will get the service in the future when I have a need for it.",0.6102667450904846
+bfh326,"Invoice no.: <NUMBER>
+
+Refund request reason: I cancelled online & still got charged monthly pro fee. Please refu d.",0.6063548922538757
+b3hio5,"Invoice No.: <NUMBER>
+
+Refund request reason: I had cancelled my subscription last month and just now I got a notice from mastercard that the subscription was charged again.  PLEASE REFUND THIS CHARGE of $16.99",0.605259120464325
+ih6vt3,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, I still on a trial plan and I accidently click on ""Skip Trial"" and I got charged. I thought when I click Skip Trial it's gonna cancel my trial instead I got charged for a whole year which I'm not expecting to happen. Can I have a refund?",0.6041563153266907
+1d75fp,"Invoice No .: <NUMBER>Refund request reason: I haven't used it for more than 3 months, so I got my money back immediately. Which has been billed for too long",0.6040425300598145
+cq68pk,"Invoice No.: <NUMBER>
+
+Refund request reason: I thought I had canceled my subscription and got charged today now I am under financial stress",0.6024947166442871
+s9o0xu,"Invoice No.: <NUMBER>
+
+Refund request reason: Got charged when i thought I cancelled it last month. I just cancelled as soon as I got charged for this month.",0.5965902805328369
+dgajrd,"Invoice No.: <NUMBER>
+
+Refund request reason: Hey i got charged right now and i want planning on extending the plan after the trial. If you could please refund me  the charge and cancel my subscription as well pls i forgot to remove my card. thanks",0.5891753435134888
+h4o8sd,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello,
+I am a student and I have used canna for one of my projects. However it looks that I have forgot to cancel the subscription and got billed for another month. Please be kind and refund the same to me. 
+
+Thanks",0.584889829158783
+5uehjy,"Invoice No.: <NUMBER>
+
+Refund request reason: I thought I canceled this. 
+I have removed my credit from the account to cancel the subscription. I do not know why I got charge since I didn’t use the service.",0.5634345412254333
+qai4r1,"Invoice no.: <NUMBER>
+
+Refund request reason: The account got auto renewed, and request you to cancel and process the refund as I don't have the budget to extend right now.",0.5587175488471985
+ap2an8,"Invoice No.: <NUMBER>
+
+Refund request reason: I  once I got charged I don't use this and it was not supposed to renew",0.555429995059967
+vk4pit,"Invoice number: <NUMBER>Refund request reason: I got that it was a free trial and they charged me up front, without doing any test",0.5359827876091003
+qmpw2l,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled a free trial and I still get a charge on my debit card. I already requested a refund but I haven’t got it and I was told to file another request, can you help me?",0.5238841772079468
+hoow45,"Invoice No.: <NUMBER>
+
+Refund request reason: It said I received the package  and I never got it. Not in the mail Or at my door. I was here all day and never got it.",0.5173843502998352
+egoxcf,"Invoice No.: <NUMBER>
+
+Refund request reason: i cancelled the plan but still got charged",0.5072783827781677
+vr5p7w,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, I missed the chance to cancel the subscription before I got invoiced. Sorry for the inconvenience. Thanks.",0.5020699501037598
+lwx4bg,"Invoice No.: <NUMBER>
+
+Refund request reason: i cancelled it on the 27, but it seemed it did not go through and when i checked today it turned out it did not in fact canceled and i got the charge, please i request a refund the money that was taken is towards something really important please give a refund.",0.49881964921951294
+q0pgqx,"Invoice number: <NUMBER>Refund request reason: I got confused and tapped ok on the subscription but I only wanted to use it for a month not for a year, I need a refund",0.491873174905777
+cwv6st,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled the renew and I got charged. Please give me a refund",0.49066218733787537
+1pj5k2,"Invoice No.: <NUMBER>
+
+Refund request reason: Before i cancel it got subscribed.
+i would request you to refund the same at the earliest.",0.4633038341999054
+txm1p7,"Invoice No.: <NUMBER>
+
+Refund request reason: I received a message that my subscription will resume on the 16th of January. And I was charge for a renewal on the 15th before I even got the chance to cancel my subscription.",0.4530402719974518
+i86ejq,"Invoice no.: <NUMBER>
+
+Refund request reason: Charged me for year , I only wanted to do monthly subscription instead. Did contact before but got no email back.",0.4348595142364502
+m3bxpy,"Invoice No.: <NUMBER>
+
+Refund request reason: I tried to cancel earlier today and wasn’t able to. I never got an email saying it was getting automatically renewed. I’d like a refund. I already canceled it too.",0.43436864018440247
+uco32q,"Invoice No.: <NUMBER>
+
+Refund request reason: I forgot to cancel after my trial. I got charged for 2 months :/",0.43182364106178284
+dqp7y6,"Invoice No.: <NUMBER>
+
+Refund request reason: I thought I was able to cancel the subscription. Instead it was for February subscription. I was under the impression that January 25yh is the last day to use Canva prior being charged then got a.notifiction I was charged.",0.4272648096084595
+45591o,"Invoice no.: <NUMBER>
+
+Refund request reason: I would like to request a refund, as I wanted to try the software. However, I have missed stopping my subscription and got charged. Would you be kind enough to process a refund, as I have not used anything since I got charged?",0.4244539439678192
+e7hx6e,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled and still got charged please refund",0.41193848848342896
+k2kewl,"Invoice No.: <NUMBER>
+
+Refund request reason: I got charged by the year I wanted to do it Monthly",0.40677323937416077
+58pyoc,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled after my 7 days and still got charged",0.4064939618110657
+6pxcmm,"Nº da fatura: <NUMBER>
+
+Refund request reason: I definitely canceled my plan last month and just got a new charge. I want it immediately cancelled, please.",0.4017045795917511
+rj6evv,"Invoice no.: <NUMBER>
+
+Refund request reason: I thought I'd be given more options and the opportunity to confirm payment before being charged - As you would expect!! - Instead I got charged right away. Please can you fix this? Thanks.",0.39685776829719543
+624rf4,"Invoice no.: <NUMBER>
+
+Refund request reason: Hi,
+I never got to use Canva and I did not know I was billed monthly. Today I got an email I was charged AUD 17.99 for something I have not used and really don't intend to.
+Thanks for the comprehension and sorry for any inconvenience.
+Thanks,
+Jose",0.3513112962245941
+st7b7r,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled it once before and I still got charged",0.25128403306007385

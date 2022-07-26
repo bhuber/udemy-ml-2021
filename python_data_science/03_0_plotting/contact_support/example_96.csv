@@ -1,0 +1,64 @@
+feedback_id,examples,confidence
+560vxf,"Descriu el problema.: Please, could you can provide a contact email?
+
+
+What kind of problem?: Altres",0.9818894863128662
+l0ygqf,"Che tipo di problema?: <NAME>
+
+Descrivi il tuo problema:  JTP-<NUMBER>ID-x935vr 
+
+I tried to get in contact with you twice with no answer",0.9373812675476074
+dck4a8,"¿De qué tipo de problema se trata?: <NAME>
+
+Describe el problema: Hi, I am refering to my case <NUMBER>. I am not receiving any further response to my emails, can you please have a look and get back to me. Thank you.",0.738849937915802
+vj1s6y,"Per quale problema desideri ricevere assistenza?: I wanna stop my free trial period, please what's the procedure? Thanks",0.5093266367912292
+7eb70t,"Qual é o tipo de problema?: Outro
+
+Descreva o problema: 1 week ago I received a Canva credit card charge for a purchase I didn't make. Since then, I try to contact you to solve my problem but without success. I demand the reversal of the amount, I can prove that I did not make any type of subscription. If this is not resolved soon, I will file a lawsuit.
+
+1) Details of the last Invoice received:
+Canva invoice number: <NUMBER>
+Invoice date: 08/30/20
+2) City of the last time your Canva account was used: Guarulhos / SP
+Browser from which your Canva account was last used: Google Chrome
+Operating system from which your Canva account was last used: Windows 10
+3) Canva account username: Thaís Marques
+Email addresses you may have used when the account was created: <EMAIL>
+
+Amount in USD: 1739.89",0.4437236487865448
+096cby,"Qual é o tipo de problema?: Outro
+
+Descreva o problema: good afternoon, I already sent an email a few days ago and I can't get in touch with you.
+
+I do not have access to the email that serves as access to my account, as it has been disabled.
+
+I want to update my account to Canva Pro, but I need it to be for the current email because I don't want to lose all the designs I already have in the current account.
+
+could you please check this out?
+
+my name is Carol Crisóstomo, my phone contact is +<NUMBER>and the best email for contact is <EMAIL>
+
+thank you and I await your return.
+
+Thanks.",0.4233328104019165
+rh6362,Describe the problem:   ¿Cuál era tu problema ?: Canva Pro,0.36944442987442017
+js8x0t,"Che tipo di problema?: <NAME>
+
+Descrivi il tuo problema: URGENT HELP I have reset my password and my canva pro account does not appear, nor do my projects. I need to finish a job urgently.
+ 	
+INVOICE
+<NUMBER>
+ 	
+ISSUE DATE
+29 Jan 2021
+ 
+ 	
+BRAND ID
+BADEhbG5opE
+ 	
+INCOME A
+Card (MasterCard - 5469)",0.3143385946750641
+lkxrh5,"Qual é o tipo de problema?: Outro
+
+Descreva o problema: I can’t use the Canva Pro and it’s just paid!!!! I need this for my job! Please help!",0.19085173308849335
+jqpbjr,Describe the problem:   <NUMBER>υυ5 ¿Cuál era tu problema ?: Imágenes Pro,0.15076439082622528

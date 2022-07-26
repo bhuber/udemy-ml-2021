@@ -1,0 +1,340 @@
+feedback_id,examples,confidence
+ck0adm,"Refund request reason: Unfortunately, my subscription was renewed automatically. I don't use this account. I'd like to get my money back to the card. Thank you in advice.
+
+Номер счета: <NUMBER>",0.9413561224937439
+ccyqto,"Номер счета: <NUMBER>
+
+Refund request reason: Good day!
+I didn't plan on using Canva Pro. The money was automatically withdrawn from my account. Please return the money to me. Thank you!
+
+Yours faithfully",0.9399469494819641
+g1voct,"Номер счета: <NUMBER>
+
+Refund request reason: Hello,
+I tried Canva pro a month ago, and it didn't fit my needs, so I didn't used it and I don't need it. But I forgot to cancel subscription. Could I please get money back for the period of Feb 7th - March 7th 2021?
+Thanks",0.9334696531295776
+2eguji,"Номер счета: <NUMBER>
+
+Refund request reason: Hello! My name is <NAME>. The subscription plan was renewed automatically, but actually I don't need Canva plan for the next few months any more. I haven't used Canva yet in this period, so could you please take my money back and cancel my subscription? I've changed my job because of COVID-19, and now need the money and dont't need Canva. Would be really grateful! Thank you.",0.9180141687393188
+ymk2qi,"Номер счета: <NUMBER>
+
+Refund request reason: Hello!
+I used the free period on your site.
+I wanted to unsubscribe, but I forgot the specific end date of the trial period. The money was deducted, but I didn't plan to use the subscription further. I'm asking for a refund",0.872206449508667
+dgrea6,"Номер счета: <NUMBER>
+
+Refund request reason: Hello. I do not use service, I want to return the money for the subscription to the specified account and cancel the subscription. Thanks.",0.8719567656517029
+ce66g8,"Номер счета: <NUMBER>
+
+Refund request reason: Good day! Please, can you help me to return my money for the subscription? 
+My subscription was renewed automatically but for now I don't need it anymore.",0.8555747866630554
+oont7m,"Номер счета: <NUMBER>
+
+Refund request reason: 
+Hello!
+I completely forgot that I have a premium subscription.
+Further I did not plan to use the service.
+I am writing immediately after writing off funds in the amount of $ 155.22 or 8388 rubles.
+Please return this amount of joy! Thanks!",0.842140793800354
+mmkoxl,"Номер счета: <NUMBER>
+
+Refund request reason: 
+Good day! Money was debited from my card. I don't want to use the service. This is a mistake, please return my money.",0.8379995822906494
+vtejjx,"Номер счета: <NUMBER>
+
+Refund request reason: Hello! I don't use the service. Please return the money.",0.8331556916236877
+3v5nih,"Номер счета: <NUMBER>
+
+Refund request reason: I finished my 
+subscription 08.01.2021. But it was not do/ and Yesterday 16.01.2021 my  subscription was renewed and money was debited automatically. I  would like to return money
+and finished my subscription, please.
+Thanks!",0.8316394090652466
+g1dq6b,"Номер счета: <NUMBER>
+
+Refund request reason: 
+I do not use the service. The subscription has been renewed automatically.",0.8166605234146118
+7wfk1g,"Номер счета: <NUMBER>
+
+Refund request reason: Forgot to cancel subscription and would like to receive my money back",0.8147284388542175
+uw81r0,"Номер счета: <NUMBER>
+
+Refund request reason: A month ago I took a trial period and forgot about it
+
+Today I received a notification about the withdrawal of money, but I don't need no longer the canva
+
+I canceled my subscription right away, but the money was not returned",0.8139036893844604
+j85fq5,"Номер счета: <NUMBER>
+
+Refund request reason: A month ago I took a trial period and forgot about it
+
+Today I received a notification about the withdrawal of money, but I don't need no longer the canva
+
+I canceled my subscription right away, but the money was not returned",0.8139036893844604
+kqmvj9,"Номер счета: <NUMBER>
+
+Refund request reason: The subscription was continued automatically after the free-trial period. Unfortunately, I can't afford the pro version.",0.799889862537384
+fhu80m,"Номер счета: <NUMBER>
+
+Refund request reason: I decided to only use only the trial period, after the trial period I did not use this site, the money was debited, I thought that I had already canceled the subscription. Please return the funds",0.795070230960846
+v86apd,"Номер счета: <NUMBER>
+
+Refund request reason: Hi, I didn’t want to pay for this year due my maternity leave. I didn’t know that money would be charged without my permission. 
+Thank you for your help!",0.7949581146240234
+12yumn,"Номер счета: <NUMBER>
+
+Refund request reason:  I cancel my subscription. I want to return money for this month.",0.7944877743721008
+193j48,"Номер счета: <NUMBER>
+
+Refund request reason: Hello, the write-off occurred without warning, which does not suit me very much, it was my last money.If I need a subscription, I'll sign it up <NAME> return the money for the annual subscription, which I do not need. This has hit my financial situation, get into my position in such a difficult time of the pandemic.Thank you for your attention!",0.7930452227592468
+tu9dve,"Номер счета: <NUMBER>
+
+Refund request reason: Please. Give my money back. I dont need Pro.",0.7913104891777039
+ilu2lw,"Номер счета: <NUMBER>
+
+Refund request reason: I accidentally signed up for the membership and did not use it. Could you please cancel it and issue a full refund?",0.7900012135505676
+chuo2o,"Номер счета: <NUMBER>
+
+Refund request reason: I was not going to renew my subscription.  funds were debited automatically.",0.7802077531814575
+812deo,"Номер счета: <NUMBER>
+
+Refund request reason: Its a mistake! Sorry, but I dont need it. I need my money back.",0.776142418384552
+ea10q4,"Номер счета: <NUMBER>
+
+Refund request reason: Do not need a subscription please return the money. Less than a day has passed since the debiting. I didn't use the resource.",0.7738876938819885
+gkt9bn,"Номер счета: <NUMBER>
+
+Refund request reason: 
+Hello. my subscription was renewed automatically, but I am not planning to use canva pro yet. would like to request a refund, please",0.7553567886352539
+y3nv2c,"Номер счета: <NUMBER>
+
+Refund request reason: 
+Good day. Please refund and cancel your subscription. It lasted automatically and I don't need it.",0.7371178865432739
+vp697h,"Номер счета: <NUMBER>
+
+Refund request reason: Hello! subscription for my account has been renewed automatically. I wanna return the money and cancel my subscription. Thanks for help and have a nice day!",0.7313421368598938
+oqvjxw,"Номер счета: <NUMBER>
+
+Refund request reason: Hello! I cancelled my subscription 4-5 days ago, but money were charged anyway.",0.7123745679855347
+pcoxgc,"Номер счета: <NUMBER>
+
+Refund request reason: Please return this sum of money. 
+It was taken automatically. I won’t prolong Canva pro right now ...",0.6994986534118652
+fuusvo,"Номер счета: <NUMBER>
+
+Refund request reason: Hello! I have had a debiting of funds and an auto-renewal of my subscription. I don't use Canvas and I wasn't going to pay for it. I ask you to return the money, I did not agree to the extension.",0.6928649544715881
+4osuio,"Номер счета: <NUMBER>
+
+Refund request reason: i dont use Canva but money were debited  from my bank account",0.6886675953865051
+q8eb5f,"Номер счета: <NUMBER>
+
+Refund request reason: I am sure about Canva Pro right now. 
+
+Please return money because it was my son’s education money to pay urgently...! Sorry for inconvenience 
+
+The money was taken on 06, 2021.
+
+Hope to get your help",0.6805974841117859
+yw98pf,"Номер счета: <NUMBER>
+
+Refund request reason: For 3 months in a row, you are debiting money for a paid subscription !!!
+I don't use your service !!!
+<NUMBER>Stovba Valerii
+debiting funds
+10/30/2020
+12/16/2020
+01/07/2021
+ 
+Refund your money and cancel your subscription !!!!",0.6691316366195679
+fvxl9q,"Номер счета: <NUMBER>
+
+Refund request reason: For 3 months in a row, you are debiting money for a paid subscription !!!
+I don't use your service !!!
+<NUMBER>Stovba Valerii
+debiting funds
+10/30/2020
+12/16/2020
+01/07/2021
+ 
+Refund your money and cancel your subscription !!!!",0.6691316366195679
+ubv4ty,"Номер счета: <NUMBER>
+
+Refund request reason: For 3 months in a row, you are debiting money for a paid subscription !!!
+I don't use your service !!!
+<NUMBER>Stovba Valerii
+debiting funds
+10/30/2020
+12/16/2020
+01/07/2021
+ 
+Refund your money and cancel your subscription !!!!",0.6691316366195679
+kt9fmq,"Номер счета: <NUMBER>
+
+Refund request reason: For 3 months in a row, you are debiting money for a paid subscription !!!
+I don't use your service !!!
+
+<NUMBER>Stovba Valerii
+debiting funds
+10/30/2020
+12/16/2020
+01/07/2021
+ 
+Refund your money and cancel your subscription !!!!",0.6691316366195679
+u8936m,"Номер счета: <NUMBER>
+
+Refund request reason: Hello! I am sorry but I thought that I cancel the pro subscription. I saw 5 min ago that you charged money from me (maybe I forgot to cancel it). Could you please refund it (I don't need pro version for now). Moreover, I live in Russia and you charged me 13 usd and in Russia, the canvas subscription is cheaper (ruble currency). Could you please make a refund for me?",0.66680508852005
+dcfib2,"Номер счета: <NUMBER>
+
+Refund request reason: good afternoon.please return the funds to the account <NUMBER>! I don't plan to use the apps this month. the charge was made automatically! thank you!",0.6574400663375854
+062kln,"Номер счета: <NUMBER>
+
+Refund request reason: Greetings. Please return the money for the subscription, I completely forgot to cancel it and I was not going to use the canvas, this is a lot of money for me. Please delete my subscription and refund my money. I may have accidentally signed up and forgot about it, I was scared when my bank card statement came, I immediately understood what the problem was and immediately canceled my subscription.",0.6403400301933289
+dqji6b,"Номер счета: <NUMBER>
+
+Refund request reason: I canceled subscription,  but cost charged. please refound.",0.6369026899337769
+r0e8lp,"Номер счета: <NUMBER>
+
+Refund request reason: My subscription was renewed automatically, I was not notified about the end of the free trial period, I want to return my funds and cancel my subscription",0.608126163482666
+tlqg1j,"Номер счета: <NUMBER>
+
+Refund request reason: I didn't want to buy a subscription. the cancellation took place automatically. I don't use the service.",0.6053900122642517
+cwbyfx,"Номер счета: <NUMBER>
+
+Refund request reason: Hello. I ask for a refund for the subscription. Since I did not pay for it and the money was debited automatically.",0.5930841565132141
+rlphmd,"Номер счета: <NUMBER>
+
+Refund request reason: Hi! I cancelled the trial period of Canva Pro on 20 Jan, but today you charged me 12.95. I pressed again the button Stop the subscribtion. Because I dont use it now,
+Please, refund.
+
+Thank u!!!",0.5811183452606201
+f9dkeh,"Номер счета: <NUMBER>
+
+Refund request reason: my subscription was made by accident by my child, I apologize for the inconvenience, I want a refund and cancel my subscription",0.5669780373573303
+kk3ply,"Номер счета: <NUMBER>
+
+Refund request reason: Hello! I thought that I will be able to try Canva Pro for one month for free, but completely forgot that I have already did so a while ago, so as soon as I have pressed the 'submit' button, 11.99 euros have been charged. I am asking for a refund and excuse me for such an unclever move!",0.5653473138809204
+pafah0,"Номер счета: <NUMBER>
+
+Refund request reason: Hello! can i cancel a subscription payment? i signed up for a free month and misunderstood the date",0.5610718131065369
+tc81du,"Номер счета: <NUMBER>
+
+Refund request reason: I tried to cancel my trial subscription but I have chosen wrong button and create a new type of subscription. Than I find where can I cancel and did it. But now I have seen the payment and found out that I made it when I was firstly trying to cancel. I hope it is possible to give my money back, because I'm a student and 899 rubles is big cost for me. 
+Thank you for your attention!",0.5375209450721741
+daay17,"Номер счета: <NUMBER>
+
+Refund request reason: Good day!
+I got my annual subscription by mistake.
+I ask you to help me with a refund for the annual subscription.",0.5283251404762268
+khl8vq,"Номер счета: <NUMBER>
+
+Refund request reason: Hello, I don't remember the email from my account and wanted to cancel my subscription. And today I was charged for a subscription for canva pro. Card <NUMBER>please return the money. Thanks",0.5056182146072388
+1ifnwa,"Номер счета: <NUMBER>
+
+Refund request reason: Hello, I don't remember the email from my account and wanted to cancel my subscription. And today I was charged for a subscription for canva pro. Card <NUMBER>please return the money. Thanks",0.5056182146072388
+vfo28r,"Номер счета: <NUMBER>
+
+Refund request reason: Cancel and refund your subscription, please",0.4857032001018524
+506r4l,"Номер счета: <NUMBER>
+
+Refund request reason: Hello! I appreciate your platform but I forgot to cancel auto-renewal. I would be thankful for a refund as free options are enough for me as for the person whose occupation doesn't have any connection with design. thank u!",0.4817460775375366
+3xxrni,"Номер счета: <NUMBER>
+
+Refund request reason: Good afternoon, I would like to issue a refund of the debited funds.  did not know that a separate subscription applies to the command office and did not cancel it on time.  it lasted automatically.  Unfortunately, I cannot afford it now.",0.48161521553993225
+miwgxh,"Номер счета: <NUMBER>
+
+Refund request reason: subscription was automatically continued",0.48117175698280334
+6xs7kk,"Номер счета: <NUMBER>
+
+Refund request reason: subscription was automatically continued",0.48117175698280334
+snuff4,"Номер счета: <NUMBER>
+
+Refund request reason: subscription was automatically continued",0.48117175698280334
+e1sym9,"Номер счета: <NUMBER>
+
+Refund request reason: subscription was automatically continued",0.48117175698280334
+m5wcvg,"Номер счета: <NUMBER>
+
+Refund request reason: subscription was automatically continued",0.48117175698280334
+c23bbc,"Номер счета: <NUMBER>
+
+Refund request reason: subscription was automatically continued",0.48117175698280334
+yaxt92,"Номер счета: <NUMBER>
+
+Refund request reason: I forgot to unsubscribe the month plan of Canva Pro. I want to refund because I didn't use Canva Pro after the payment",0.47870826721191406
+jipgxk,"Номер счета: <NUMBER>
+
+Refund request reason: Hello. I chose the trial period. I clicked the unsubscribe button, but I was charged money from my card for a month of using canva pro. Please return the money",0.46559566259384155
+d4webh,"Номер счета: <NUMBER>
+
+Refund request reason: I forgot to cancel, cancelled after My card was charged. Please refund for this month if possible. Thanks",0.44757211208343506
+q65qt2,"Номер счета: <NUMBER>
+
+Refund request reason: I pried to cancel it but it has prolonged automatically. Could I have a refund?",0.43834516406059265
+m03ch2,"Refund request reason: Good evening! 
+
+ Accidentally I made a subscription for two accounts - <EMAIL> and <EMAIL> I was sure that made a subscribrion only for one of them
+
+I wanted to try your service. However, eventually I didn't found it interesting for me.  
+Today the payments for the next month were withdrawn from both account. And I now cancelled subscription. 
+Is it possible to refund these payments? 
+
+Thanks in advance! 
+Best, 
+Sofya
+
+Номер счета: <NUMBER>",0.43525296449661255
+y47ca0,"Номер счета: <NUMBER>
+
+Refund request reason: Hi, I’ve tested your product and realized that it is not something I need. Unfortunately, I forgot to cancel my trial before payment due date and my card has been charged. Please refund the payment. Thanks.",0.43036600947380066
+mex7sn,"Номер счета: <NUMBER>
+
+Refund request reason: I didn't use this service and letters about payment 
+have been sent to spam for all 5 months",0.42290881276130676
+8ayjy4,"Номер счета: <NUMBER>
+
+Refund request reason: I didn't use this service and letters about payment 
+have been sent to spam for all 5 months",0.42290881276130676
+5eifqr,"Номер счета: <NUMBER>
+
+Refund request reason: I didn't use this service and letters about payment 
+have been sent to spam for all 5 months",0.42290881276130676
+8lagwx,"Номер счета: <NUMBER>
+
+Refund request reason: I didn't use this service and letters about payment 
+have been sent to spam for all 5 months",0.42290881276130676
+d8s7eu,"Номер счета: <NUMBER>
+
+Refund request reason: I didn't use this service and letters about payment 
+have been sent to spam for all 5 months",0.42290881276130676
+8objyu,"Номер счета: <NUMBER>
+
+Refund request reason: Hi! I accidentally forgot to turn off auto-renewal and got subscribed to Canva for a year for 110$ (8388 rub.). Would you be so kind to make a refund? Thank you!",0.4207381010055542
+n0d9ca,"Номер счета: <NUMBER>
+
+Refund request reason: I want refund, my subscription was automaticaly payed",0.4164397716522217
+k4uaei,"Номер счета: <NUMBER>
+
+Refund request reason: Hello, unfortunately I did not plan to pay for the subscription and it was paid automatically because my card was linked during the trial version.",0.39478302001953125
+d2eir6,"Номер счета: <NUMBER>
+
+Refund request reason: I want refund",0.38592422008514404
+ht925j,"Номер счета: <NUMBER>
+
+Refund request reason: Subscription happened automatically!",0.3824492394924164
+qw6pjx,"Номер счета: <NUMBER>
+
+Refund request reason: I  would like to request my payment back, as I do not plan to use a paid subscription. This payment was made automatically from my card, as I did not have time to cancel the subscription. I sincerely hope for your understanding and thank you!",0.3481154143810272
+htljrf,"Номер счета: <NUMBER>
+
+Refund request reason: I didn't plan to renew my subscription",0.34681835770606995
+vg4ipy,"Номер счета: <NUMBER>
+
+Refund request reason: Don’t want to continue subscription",0.2772543728351593
+v3wk5y,"Номер счета: <NUMBER>
+
+Refund request reason: Subscription happened automatically",0.23820056021213531
+ot88tv,"Номер счета: <NUMBER>
+
+Refund request reason: Auto? i dont want it!!!",0.21854612231254578
+ssf3je,"Номер счета: <NUMBER>
+
+Refund request reason: O no! Sorry, I really want this, but it was  RANDOM PURCHASE",0.1522308588027954

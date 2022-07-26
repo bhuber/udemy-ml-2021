@@ -1,0 +1,220 @@
+feedback_id,examples,confidence
+ecxgd4,"Fakturanr.: <NUMBER>
+
+Refund request reason: I do not want the subscription and would like my account cancelled and my money back. 
+I simply forgot to end the trial-period. 
+Thank you",0.9630647301673889
+6ekap3,"Account number: <NUMBER>Refund request reason: Good afternoon! Please return the money, because I am not using your application. I had a trial period, but even during the trial period, I did not use this application. And accordingly, I completely forgot that I signed up for a subscription.",0.9140102863311768
+uifqfl,"What kind of problem ?: Other Explain your problem: My card was charged because I canceled the subscription after the trial period, but I did not use it after the trial period. Can I get a refund?",0.8966506719589233
+sfalld,"What is the problem related to ?: Canva Pro Describe your problem: Hello, I would like to ask for help, as I missed my subscription and I only wanted to use the trial period. I thought the subscription will automatically turn off after the end of the trial period. I just received an invoice for purchasing a CanvaPro subscription. Would there be a chance to cancel my subscription and request a refund? Please consider my request positively. Pheasant heat Anna Stachecka",0.8962863087654114
+x3ecut,What do you need help with?: I did not want to continue the subscription and wanted to cancel during trial period. Please cancel are refund charge. Thank you.,0.8846563696861267
+3tnjrm,"Invoice No.: <NUMBER>
+
+Refund request reason: I didn't use Canva Pro during the trial period and will not be using it. My subcription ended yesterday.",0.8842648863792419
+ripMB7ATf5ryac2E,"Because I failed to cancel the subscription during the free trial period and caused payment, but I don’t need to use Canva, I asked for a refund. Please understand! Must be refunded!",0.8802069425582886
+r2D9ZcGDszIhIQnB,"Because I failed to cancel the subscription during the free trial period and caused payment, but I don’t need to use Canva, I asked for a refund. Please understand! Must be refunded!",0.8802069425582886
+dbts8a,"Invoice No.: <NUMBER>
+
+Refund request reason: Good evening,
+
+I received an unfamiliar charge from Canva. The reason might have been that I signed up for a trial period, which I later decided to not continue with your services. However, I did not receive any warning email before the trial period ended which resulted in me forgetting cancellation. Although, this account is not even email confirmed. 
+
+Your services are great, but we wish to not continue and would like to get a refund. I immediately cancelled the plan as well.
+
+Would love to hear from you soon! And thank you for your time. 
+
+Kindest regards, 
+<NAME>",0.866127610206604
+cp0ij8,"Invoice No.: <NUMBER>
+
+Refund request reason: I subscribed for the trial, and a few days later I canceled the subscription. Now you have charged me anyways on Dec 7, 2020. I demand a refund, because I had a trial period, in which I could cancel, and I did. Please inform me about the procedure of the refund. Thank you very much in advance!",0.8490013480186462
+g3hhu0,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi there, I never subscribed to a yearly account.  As you can see, I don’t have any activity on this website during this subscription period as I do not use Canva frequently to have needed a subscription.  Please refund me the total amount of $119.40, as I really cannot afford this right now.  I have not used any of the Pro features during this subscription period.  I am reaching out a few days after I was charged because I was busy with midterms and did not get a chance to request for a payment refund.",0.8436607122421265
+scmpty,"Refund request reason: Accidentally let trial period extend to charge.  We will not be using Canva Pro at this time.  Please consider sending refund.  Thank you so much and have a wonderful day.
+
+Invoice No.: <NUMBER>",0.8415776491165161
+3cu2if,"Invoice number: <NUMBER>Refund request reason: Hi, I entered the payment details during the trial period but I forgot to unsubscribe and an automatic payment started, I kindly ask you if I can be refunded. Thanks",0.8342859745025635
+yji3ro,"Invoice No.: <NUMBER>
+
+Refund request reason: I’m so sorry but I will not be needing this service and I intended to cancel before the trial period expired. It totally slipped my mind until I received an email early this morning. Please refund in full... I have not logged in since the trial period ended. Thank you.",0.8285586833953857
+uy076n,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, I cancelled my subscription after the trial period and I was still charged for 4 months.  This account has been inactive for that entire period of time and I would like to request a refund and to cancel this account please.",0.8270077705383301
+2kwi3b,"Account number: <NUMBER>Refund request reason: The free trial period ended today, January 10, 2021. The funds were immediately debited from the account. After the trial period, I did not want and will not use the paid version of canva. In this regard, I ask you to return the money to me.",0.8231817483901978
+7nwm6h,"Nr faktury: <NUMBER>
+
+Refund request reason: Hello.
+
+I would like to request a refund for extending my Canva Pro trial period. The trial period was satisfactory for me and helped to finish some projects, but I can't use Canva any longer because I had my fourth child in December and I don't have time to work. In all the confusion, I missed the end-of-trial reminder email and did not cancel my subscription. I am asking for your understanding and refund.
+
+Greetings ,
+Monika Uba",0.8181754946708679
+tgqp87,How can we help you ?: Welcome! Today my free trial period on the Canva side has expired and I forgot to cancel my subscription. Is it possible to refund the annual fee paid? Greetings: László <NAME>,0.8132267594337463
+fi4i7w,"Account number: <NUMBER>Refund request reason: I forgot that the trial period is ending and did not see the letter in the mail, I ask for a refund for the subscription, as I wanted to use only the free period.",0.807461678981781
+w3l031,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, I would like to request a refund because I didn't use the Canva during the subscription period that was automatically charged after the free trial...I also didn't use Canva Pro for the free trial either.",0.7841683626174927
+d1oibs,"Account number: <NUMBER>Refund request reason: Not warned about the end of the trial period, it is not suitable for use. You can see in the trial period only one used it, on the day of registration. Thank you",0.7833423614501953
+u6hts3,"Invoice number: <NUMBER>Refund request reason: Hello, I would like to request a refund of my canva invoice, please, I accepted the free trial of canva pro, used the service and then my credit card was charged. I am unable to pay for the service which I did not use, if you check my usage history, there will be no activity during this period. Thank you very much in advance",0.7757066488265991
+7hs9hq,"Invoice No.: <NUMBER>
+
+Refund request reason: Will not be using pro services.
+Forgot to cancel during trial period. Please refund my account as I've already canceled the subscription.",0.7678269147872925
+rrf1hb,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello! Tried canceling the trial period before the last day, but had internet issues. I'd like to cancel this and get a full refund. Thank you!",0.7630224227905273
+p4svwi,"Account number: <NUMBER>Refund request reason: I signed up for a trial subscription period. I did not renew the paid one. I don't need it at the moment. I have no canvas work right now. Therefore, the subscription is not valid. If there was confirmation, then I would immediately reject it.",0.7628026604652405
+goqmst,"Invoice No.: <NUMBER>
+
+Refund request reason: It s my fault but I forgot to cancel the subscription after the trial month period. As you can see, I have never used it past that period as this is not the perfect solution for me. Please as of good will I would be very grateful I f I could get a refund. Thank you very much",0.7550067901611328
+uk0bn1,"Invoice No .: <NUMBER>Reason for the refund request: Hello, I forgot to cancel my subscription after my trial period knowing that I do not need Canva pro tools. Is it possible to get a refund please?",0.7509543299674988
+ak6xxj,Invoice number: <NUMBER>Reason for the refund request: I wanted for the moment to test the free trial period but my cancellation request was not taken into account. I prefer to wait to subscribe to the subscription. Please make the refund,0.7509087324142456
+abjdl9,Invoice number: <NUMBER>Reason for the refund request: Hello I did not pay attention to the renewal after the trial period canva does not suit me can you refund me and cancel my subscription? thank you,0.7453486919403076
+0yqhqu,"Invoice No .: <NUMBER>Reason for the refund request: Hello, Due to a big mistake on my part, I have decided to cancel my canva pro subscription. I am not questioning the services you offer, but being a student, I cannot afford to continue paying. So I only took advantage of my trial period by forgetting to cancel my subscription when the free period expired. I hope so, to be eligible for a refund. By thanking you for your return, Sincerely, Harouchi Sonia.",0.7354702353477478
+lbdhsj,"What kind of problem ?: Other Describe your problem: I want to end the trial period on Canva Pro, but can not figure out how to do it. Does not show my subscription until the trial period is over? The trial period is over 10.02.21 and I want to finish it before that time.",0.7347499132156372
+axjcde,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello Canva Team,
+
+Hope you are well. I would like to request a refund for the recent charge for the subscription on my account. I have already cancelled the subscription, but I had accidentally not cancelled the free trial prior to it automatically changing into a paid service. Unfortunately, I cannot maintain paying for this service during this period of time. If the charge can be reversed, that would be greatly appreciated.",0.7331607341766357
+f0ri8l,"Invoice No.: <NUMBER>
+
+Refund request reason: I signed up for a free trial of canva pro but I don't really use it. I forgot to cancel during  the trial period and was charged the yearly subscription.",0.7304103374481201
+cj8b34,"What kind of problem did you have? : Canva Pro Problem Description: I canceled auto-renewal during the trial period, but I am being billed.",0.7172178030014038
+99qn8s,"<NAME>.: <NUMBER>
+
+Refund request reason: I have forgotten to cancel the subscription after the trial period. I would like to request a refund. Thank you.",0.7153199911117554
+jd3iep,"收据编号: <NUMBER>
+
+Refund request reason: Hello, I used it during the free trial period and also cancelled the subscription before the trial period. Why is there a bill?",0.7101536393165588
+xskfiv,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not realise I was being charged after the free trial period, I have not been using this account",0.7041667699813843
+2hy827,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not realise I was being charged after the free trial period, I have not been using this account",0.7041667699813843
+ho6ule,"Invoice No.: <NUMBER>
+
+Refund request reason: I was unable to cancel before trial period. I would like to cancel subscription and request a refund.",0.7016342878341675
+2f76lr,Invoice number: <NUMBER>Reason for the refund request: The subscription was directly renewed after the free trial period however I do not have the necessary finances to subscribe to this service as a student.,0.6901133060455322
+w0etf1,"Invoice No.: <NUMBER>
+
+Refund request reason: I never got around to cancelling after the trial period and I didn't want to continue the subscription",0.6888958811759949
+m7gktp,"What is your problem with ?: Other Describe the problem .: I used the trial period. There were two days left until the end of the end of the period, but the fee for the year was written off. And now I can't even use the trial version. Writes no subscriptions. Why? If the fee was debited",0.6888391375541687
+a20x55,"Invoice no.: <NUMBER>
+
+Refund request reason: I cancelled this during the trial period but I was still charged for this for the first month.",0.6863042712211609
+x4bbvp,"Invoice No.: <NUMBER>
+
+Refund request reason: I only wanted to signup for trial period. But my card was charged few hours ago. Can you please refund the amount? I don't want the Canva Pro, only free account is sufficient for me. Thanks.",0.6817722916603088
+76g88q,"Invoice no.: <NUMBER>
+
+Refund request reason: Hi, I'd like to cancel my subscription and get a refund for the rest of the period.
+Thanks",0.6775723695755005
+5bk1d6,"Invoice number: <NUMBER>Refund request reason: Hello, unfortunately I did not manage to cancel the trial subscription period and I was charged an invoice. I am very sorry for this oversight and I kindly ask you to cancel your subscription and refund your funds to your account",0.675152599811554
+dtdfp3,Invoice No.: <NUMBER>Refund request reason: I canceled the subscription and the trial period but I was still charged,0.6742298603057861
+u9aefr,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled this service when I signed up. I only used it during the trial period. Could I please get a refund",0.6651580929756165
+wlq3kx,"Invoice number: <NUMBER>Refund request reason: I was in a free trial period of the Pro version and they never notified me of the end of the period and they made me pay automatically, without prior notice.",0.6589781045913696
+stntuq,"Invoice no.: <NUMBER>
+
+Refund request reason: I cancelled my subscription previpusly but I was recently charged for two billing periods. I then proceeded to log in and it stated I still had a subscription even though I cancelled. Can I please have my two latest billing period refunded. Thank you",0.6562713980674744
+jsouo8,"Invoice number: <NUMBER>Refund request reason: hello, my canva pro trial period was until today, 02/05. However, my subscription was made and charged to my card in the amount of 34.90. I would like a refund and cancellation of the subscription.",0.6519971489906311
+bh1924,"Invoice No: <NUMBER>Refund request reason: I would like to get a refund, because I didn't want to continue after the trial period. Thank you",0.6517811417579651
+l02hvk,"Invoice no .: <NUMBER>Refund request reason: Hello, the trial period of canva pro has been completed, but I have not been informed that a new shoot will be made. Therefore, I request the cancellation of the membership and the refund of the fee to me. Sincerely",0.6511226892471313
+2q46vm,"Invoice number: <NUMBER>Refund request reason: After the trial period is over, I don’t want to continue to use it, and I forgot to cancel the subscription, so I was charged for one year...",0.641266405582428
+txinhg,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled this. I see I was billed two times. I cancelled this within the trial period last year.",0.633556067943573
+9wvdum,"Invoice no.: <NUMBER>
+
+Refund request reason: I'm not interested using Canva after done my trial period. I hope I can get refund.",0.6170662045478821
+fmdo5d,"Invoice No.: <NUMBER>
+
+Refund request reason: I had used canva Pro only during the Trial period. As I am still a amateur user trying to learn the tool. I have not used it after the trial period. Kindly refund the amount. I have cancelled my subscription. I liked the tool and will be using it once i get work.",0.6165006160736084
+wf65np,"Invoice number: <NUMBER>Refund request reason: I request a refund of this amount, since I did not cancel the subscription because I was going to cancel it today, which was the day that the trial period was completed.",0.6157416105270386
+cglvwx,"Jaki rodzaj problemu zgłaszasz?: Inne
+
+Opisz problem: I want to resign from canva pro. I thought that this program help me in building comics. I didn't use it and forgot about resignation during free period. Pls for stopping it now. I will be very grateful for return of my money for the next period",0.605445921421051
+uas0xu,Invoice number: <NUMBER>Refund request reason: I don't want to continue with the subscription after the free period.,0.5994676351547241
+vjnbps,"Account number: <NUMBER>Refund request reason: I canceled a subscription in my apple account during the trial period, how dare you withdraw money without consent if the subscription is canceled and I don't use the app ?? Give me back my funds",0.5926905274391174
+2pjhk0,"Invoice number: <NUMBER>Refund request reason: Unfortunately I forgot to cancel the trial period, and the amount was charged to my credit card. As I already canceled my subscription and I intend to no longer use the paid resources, I ask that the amount be refunded and my account canceled.",0.5882757902145386
+a50r1j,"Invoice number: <NUMBER>Refund request reason: Please cancel your annual Canva pro subscription. The trial period ends today, i.e. January 28, 2020, I thought the trial period lasts up to and including 28, just like in other products of this type. The amount 455.88 PLN has not been withdrawn from my account due to lack of funds. I have already canceled my subscription.",0.584557831287384
+8kdeus,"Invoice No.: <NUMBER>
+
+Refund request reason: I had cancelled the subscription right after I had made the account! I went to pay rent and looked at my balance! I have $120 taken out for something I only used once during the free trial! And I KNOW I cancelled the subscription before the next billing period! Please make this right! I can't pay rent now!",0.5801938772201538
+0fnuq0,"Invoice number: <NUMBER>Refund request reason: I used Canva services with the free period, and I had already canceled the subscription and my card was still charged.",0.57594895362854
+toq7rg,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello,
+I would like to request a refund for this invoice as I have not used this service for over 17 days, and I completely forgot about the trial period.
+Thank you for your help with the matter.",0.5640878081321716
+20714k,"Invoice No.: <NUMBER>
+
+Refund request reason: i thought i already cancelled this subscription. I would like to request a refund for the last 2 billings. If you check my account i think you'll find that i didn't even login to canva during that period",0.5640872120857239
+86ngi9,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, i forget to cancel the trial period of my canva account would like to have refund and cancelation of my canva premium",0.5617798566818237
+6blgc2,"Nr faktury: <NUMBER>
+
+Refund request reason: Hi, I would like to make a complaint, I did not want to extend the free period for one year, the extension was automatic. Although the trial period ended on February <NUMBER>, an extension took place on the same day to 4 February 2022. I would like to unsubscribe. Please return my money (455,88 zł). Justyna Koprek",0.545056939125061
+bxnsqq,"Invoice number: <NUMBER>Refund request reason: I didn't know the free trial period was over. I canceled my subscription, but I request a refund/",0.5413458347320557
+2y7qx9,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, I want to dispute this charge. I am about to cancel the trial period. Please cancel and refund.",0.5374073386192322
+h2fxnr,Invoice number: <NUMBER>Refund request reason: I forgot to cancel during the free trial period. Today I was surprised by the collection. I would like to have a refund and not use the pro at this time.,0.536407470703125
+stwvaa,"Invoice number: <NUMBER>Refund request reason: Hello, I have not noticed that I have been charged for two months because I have been busy recently. I have not used it during the period. Can I get a refund? Thank you",0.5320218205451965
+8529ve,What do you need help with ?: I was charged during the trial period. I would like to request a refund.,0.5283811688423157
+u5p8q2,"Invoice number: <NUMBER>Refund request reason: Good afternoon, I received an email about a subscription charge, but I did not subscribe to Cana, I used it only once during the free period, to verify. Awaiting.",0.5271599888801575
+73bt5x,Account number: <NUMBER>Refund request reason: I did not cancel my subscription and it automatically renewed (did not receive a notification about the expiration of the trial period). I haven't used Canva lately.,0.5141029357910156
+yuqr90,"Invoice number: <NUMBER>Refund request reason: Hello, I have not noticed that I have been charged for two months because I have been busy recently, and I have not used it during the period. Can I get a refund? Thank you",0.50514817237854
+1fbqp7,"Invoice number: <NUMBER>Reason for the refund request: Hello, I am requesting to cancel the subscription on the last day of the trial period and I was nevertheless charged € 107.88. Can you process my refund quickly? Thank you Sincerely, Claire Lebras",0.5047142505645752
+tgawt0,"Invoice No.: <NUMBER>Refund request reason: After the free trial, I did not plan to use it, but it will be automatically refunded without notice. It is rare to properly use paid features during the payment period. Therefore, we request a refund for the first payment.",0.5035659670829773
+p2bf0f,"Account number: <NUMBER>Refund request reason: I activated a free trial and forgot. There were no warnings about the end of the trial period. I earnestly ask you to return the money to me in the amount of 8388 rubles, due to the difficult financial situation at the moment and the inability to spend such large sums.",0.49570491909980774
+upt6gd,"Invoice number: <NUMBER>Refund request reason: Cancellation within the free trial period, but the charge on the card was launched, unfortunately I have no way to continue the subscription even though it contributed a lot.",0.4933418333530426
+lkjm9c,"Invoice number: <NUMBER>Refund request reason: Hello, I am writing to request a refund for the automatic registration to Canva. I signed up for the Canva Pro trial period on December 15th via email<EMAIL> Today I was automatically billed for the monthly subscription, as the trial period has expired. I would therefore like to ask you for a refund because it was not my intention to renew the subscription. Thank you for your availability.",0.4809577763080597
+cpejs0,Invoice number: <NUMBER>Refund request reason: I signed up for the free version and stayed on automatic billing. Unfortunately I forgot to cancel the trial period and was charged on that first day. I would appreciate it if they could make the refund.,0.4764540493488312
+cs3vg2,What do you need help with? : I think you canceled the pro (paid version) during the trial period. Is it canceled properly? I was worried because I received an email.,0.4752168655395508
+gu2g3s,Invoice number: <NUMBER>Refund request reason: I only want to try canva pro but have been renewed for one year due to the trial period,0.4473469853401184
+aakeas,"Refund request reason: I used a trial period, but I mistakenly thought it would be closed after it expired. The information about using trial period are unclear, so I thought that the application to trial does not assume that I should pay for further using Canva. In any case, I do not want to use these features and want a refund.
+
+Invoice No.: <NUMBER>",0.44729751348495483
+wntq1j,"N. fattura: <NUMBER>
+
+Refund request reason: I would like to withdraw from the registration. It was not my idea to have an annual registration but only a trial period. Thank you.",0.443789005279541
+u86ets,"Invoice number: <NUMBER>Reason for the reimbursement request: I only used CANVA during the trial period (just 6 days). by wanting to cancel my subscription because I have no use for it and I cannot afford to pay for this tool, my account has nevertheless been debited. I don't find that normal.",0.44043898582458496
+d6sb1k,"Invoice number: <NUMBER>Refund request reason: I requested the cancellation of the trial period on 01/28/2021, and on the same day the subscription was charged in the amount of R $ 34.90. Please ask for a refund of this amount.",0.43865838646888733
+v68sos,What problem would you like to receive assistance for ?: I would like to cancel the canta pro trial period,0.4361639618873596
+26u4ej,"Account number: <NUMBER>Refund request reason: Thanks for the trial period, I rarely use it, I don't need it",0.43453434109687805
+a948i9,Invoice number: <NUMBER>Refund request reason: Cancellation of subscription during trial period. Abusive collection of the installment.,0.4224552512168884
+gmq5uc,Invoice number: <NUMBER>Refund request reason: The subscription was automatically extended for a period of one year and unfortunately I do not need this service at the moment. Please cancel the current subscription and refund.,0.4217083752155304
+f8h6gl,"Invoice number: <NUMBER>Refund request reason: Even though the trial period was canceled, there was a charge for the service!",0.4130789041519165
+ak33d3,Invoice number: <NUMBER>Refund request reason: I signed up for canva pro for the free period but had already canceled and was debited from my account,0.4072156548500061
+y26wll,"Invoice number: <NUMBER>Refund request reason: Because it is already the second time that the automatic subscription is made, you can verify that I do not use the tool, as I had already made the cancellation on google pay, since the website you are not clear about the cancellation option. I had already canceled the service during the free trial period in October 2019. I want the refund because I had already canceled the prints of the cancellation. The subscription was not actually canceled here on the page of you and you are charging again for a product that I am not using and had already canceled. I hope that this time in fact the refund will be made. watered down",0.4046603739261627
+6ep7m6,Invoice number: <NUMBER>Refund request reason: I thought it was a free trial and then the charge came. you can see that I have not used anything paid in this period.,0.39451277256011963
+tvaabf,"Invoice number: <NUMBER>Refund request reason: Hello, I used the free premium period, I forgot to cancel it during the holiday period. I will be grateful for canceling my Premium account and refunding the fee, because at the moment I am not interested in your service. Yours sincerely, Adriana Fiszer",0.3916104733943939
+nro5d0,"Invoice number: <NUMBER>Refund request reason: charges were made for charges that I did not request, the previous week by notification in the mail, I proceeded to cancel the trial period, however said cancellation was not allowed to carry out and That without my knowledge there has been an acquisition of the service (lite) being that the period to which I was affected was premium, I request a response to my problem and not simply for a machine, I need that refund.",0.3772895336151123
+uyfbnw,"Invoice No.: <NUMBER>
+
+Refund request reason: Sorry, I wanted to cancel the trial period, y somehow I got a renovation for a month. My last trial day is tomorrow and I have been renewed til 27 February. Can you cancel it?Thanks",0.35528865456581116
+uhuwf5,"What do you need help with?: Hello, I'm an entrepreneur and my activity has been impacted by the sanitary crisis. I signed up for a trial on canva to update my resume so I can apply for jobs, then got sick and couldn't use the service except for 2 days during that trial month, would you be able to extend or renew my trial period, I honestly cant afford paying a monthly fee right now. thanks, best.",0.22989648580551147
+825nn1,"<NAME>？: 其他
+
+描述你的問題: My account is
+<EMAIL>
+I have already sent the payment certificate to you by mail. Have you received it?
+When can I reply to my canva pro use rights? I can’t use it during this period. Will the use period be extended?",0.20859672129154205
+fwo0lr,"Invoice No.: <NUMBER>
+
+Refund request reason: After testing it during the trial period, it is not an application that fits my needs.",0.18236307799816132
+971glu,"Loại sự cố gì?: Khác
+
+Mô tả sự cố của bạn: Hello,
+I'd like to cancel my Canva Pro trial period as I was charged €0.1 for the trial period (via IDEAL as I'm in The Netherlands at the moment) and I have NO access to the Canva Pro account. I also didn't receive any confirmation email for my trial period. I wanted to cancel the trial by myself but somehow I couldn't find it in my account. Can you please help me? Below I attached the invoice for the charge so you can check.
+Description: <NUMBER>
+<NUMBER>cAETUOFLPj8
+IBAN: NL51ABNA<NUMBER>
+Reference: <NUMBER>:<NUMBER>
+Value date: 15/01/2021",0.17037184536457062

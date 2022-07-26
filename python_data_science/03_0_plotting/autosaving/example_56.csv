@@ -1,0 +1,208 @@
+feedback_id,examples,confidence
+lshtra,What kind of problem?: Please describe the save problem: I keep failing to save,0.9900838136672974
+fyhwnu,What's the problem ?: save Describe your problem: Always fail,0.9863156676292419
+rpcttu,"What is the type of problem ?: saving Describe the problem: I am failing to save, this is giving error.",0.9859638214111328
+cwb5tw,What kind of problem is it ?: Saving Describe the problem: Failed to save,0.9804023504257202
+dv5j11,"What kind of problem ?: Saving Describe the problem: ""Failed to save""",0.9770733118057251
+2qhxhb,What's the problem ?: save Describe your problem: Failed to review,0.9719165563583374
+jnh9h8,What kind of problem ?: Downloader Describe the problem: Failed to save the file as a presentation,0.9648963212966919
+wohv79,What is the type of problem ?: saving Describe the problem: Saving is failing!,0.9578863978385925
+6vmokp,What is the type of problem ?: saving Describe the problem: saving failed,0.9377539753913879
+k46rcc,"What kind of problem?: Downloading
+
+Describe your issue: When downloading my png it says ""Failed"" and ""An error occurred. To retry, click here.""
+There is only one element on the page i am trying to save.",0.8854093551635742
+xvkuio,What is the type of problem ?: saving Describe the problem: the download failed I can't save,0.87471604347229
+bmca6v,"What kind of problem?: Saving
+
+Describe your issue: My design keeps trying to save and fails, I cant access my design because it keeps trying to save and fail.",0.8537414073944092
+f5kjb0,"What kind of problem?: Downloading
+
+Describe your issue: failed",0.8363692760467529
+wx6bmu,"What kind of problem?: Downloading
+
+Describe your issue: it keeps saying it failed",0.8324717283248901
+tg0i0t,"Describe your issue: Whenever I create a video/gif/animated design, it always fails to save and download properly. 
+
+What kind of problem?: Saving",0.8244166970252991
+ww23ky,"What kind of problem?: Downloading
+
+Describe your issue: The file keeps failing and i'm not sure why",0.8062210083007812
+qn443f,"What kind of problem?: Saving
+
+Describe your issue: it just says fail to download",0.7943715453147888
+i7er5y,"What kind of problem?: Saving
+
+Describe your issue: one of my designs keeps saying that it has failed to save, i cannot save it or download it",0.7817558646202087
+xir7wl,"What kind of problem?: Downloading
+
+Describe your issue: files wont download. coming back with file failed",0.7376244068145752
+8tyysc,"What kind of problem?: Downloading
+
+Describe your issue: Failed to save the video",0.7269797921180725
+29qjtc,"What kind of problem?: Downloading
+
+Describe your issue: so long time for downloading and always failed",0.7253788113594055
+oueo9f,"What kind of problem?: Downloading
+
+Describe your issue: Download failed. No issues with internet connection or anything on my end.",0.6971942782402039
+8vpv2n,"What kind of problem?: Downloading
+
+Describe your issue: Keeps failing.",0.6939080357551575
+m4e74n,"What kind of problem?: Downloading
+
+Describe your issue: Downloading is repeatedly failing.",0.6917041540145874
+ryjus3,"What kind of problem?: Downloading
+
+Describe your issue: taking forever then failing",0.6532434225082397
+x8x6it,"Describe your issue: i have jst done my resume but i am failing to download and save it in standard pdf.
+
+What kind of problem?: Downloading",0.6500913500785828
+wcfgu1,"Describe your issue: I keep downloading the thing I created and it keeps saying it failed
+
+
+What kind of problem?: Downloading",0.6467865705490112
+4iwgds,"What kind of problem?: Downloading
+
+Describe your issue: It is not downloading... i will goes up to 98% then failed.",0.6357617974281311
+61dp8h,What kind of problem is it ?: Downloading Describe the problem: Download failed. It is the first time that happens.,0.6143016815185547
+vnh19e,"What kind of problem?: Downloading
+
+Describe your issue: It always gets right to the end and fails to download to my computer.",0.5863094329833984
+5jygq7,"What kind of problem?: Downloading
+
+Describe your issue: It keeps failing",0.5825759768486023
+js3jtn,"What kind of problem?: Downloading
+
+Describe your issue: keeps failing, any ideas please?",0.5788813233375549
+77ryno,What kind of problem ?: Download Describe your problem: When I try to download and save my CV I am told that it has failed due to insufficient permissions. What can I do?,0.5552414059638977
+iwsk02,"What kind of problem ?: Download Describe your problem: hello, the created design will never be downloaded. I could ask for help, It always tells me that the download failed. I could ask for help.",0.5504539608955383
+ck122y,"What kind of problem?: Downloading
+
+Describe your issue: Downloading is failing",0.5409059524536133
+jueh5w,"What kind of problem?: Downloading
+
+Describe your issue: failed to download after multiple times of trying again",0.5249831676483154
+fmxp4q,"Describe your issue: File won't download.  Shows failed each attempt.
+
+What kind of problem?: Downloading",0.5200915932655334
+niys30,"What kind of problem?: Downloading
+
+Describe your issue: tried to download in every format and all are failing.",0.5113062858581543
+v0eemj,"What kind of problem?: Downloading
+
+Describe your issue: just keeps coming up with a ""failed to download"" message. cleared cookies and all, doesnt work.",0.504146933555603
+waf0mv,"What kind of problem?: Downloading
+
+Describe your issue: Downloads keep failing!",0.49947988986968994
+62qe48,"What kind of problem?: Downloading
+
+Describe your issue: I keep getting a failed download report even after refreshing and trying to sign out and log back in.",0.4989605247974396
+pl5tc3,"What kind of problem?: Downloading
+
+Describe your issue: Keeps failing, have retried several times with different formats",0.469554603099823
+nof287,"What kind of problem?: Downloading
+
+Describe your issue: It always fails to download. This problem lasts one week",0.45340660214424133
+s3la19,"What kind of problem?: Downloading
+
+Describe your issue: I'm trying to download my design and it fails repeatedly.",0.4426368176937103
+5vcvxg,"What's the problem ?: Download Describe your problem: always fails, even though the network is ok again",0.438049852848053
+8tqfyj,"What kind of problem?: Downloading
+
+Describe your issue: it says AN ERROR OCURRE, FAILED when i try to downoad the no 12,13,14",0.43065494298934937
+e0wjx0,"What kind of problem?: Downloading
+
+Describe your issue: I keep failed to download my design",0.42972299456596375
+1qa7cr,"What kind of problem?: Downloading
+
+Describe your issue: ""Download Failed"" every single time",0.4212177097797394
+ctyted,"What kind of problem?: Downloading
+
+Describe your issue: trying to download images, keeps failing.  Restarted computer and browser and still not downloading.",0.4132422208786011
+9fq3eh,"What kind of problem?: Downloading
+
+Describe your issue: Downloading Failed",0.3901980221271515
+6calb1,What is the type of problem ?: Downloading Describe the problem: Says it failed,0.3900310695171356
+o3cyxk,"What kind of problem?: Downloading
+
+Describe your issue: Keeps failing when I go to download file",0.38387200236320496
+4tdyfg,"What kind of problem?: Downloading
+
+Describe your issue: I get a failed message each time I try to download a project. Please fix ASAP.",0.3607659637928009
+2yn2gy,"What kind of problem?: Downloading
+
+Describe your issue: it fails when downloading",0.36075490713119507
+jawepn,"What kind of problem?: Downloading
+
+Describe your issue: I've attempted to download my design several times, and it gets about 75% of the way through before it said the download failed.",0.3607427477836609
+1hei95,"What kind of problem?: Downloading
+
+Describe your issue: downloads keep failing",0.35529446601867676
+i6re9p,"What kind of problem?: Downloading
+
+Describe your issue: it goes all the way like it is going to download and then fails.",0.35107293725013733
+r0lxhv,"What kind of problem?: Downloading
+
+Describe your issue: telling me that the download failed",0.3494442403316498
+dv9tov,"What kind of problem?: Downloading
+
+Describe your issue: it keeps saying failed when i try to download",0.3423989415168762
+t25n2n,"What kind of problem?: Downloading
+
+Describe your issue: Designs are failing to download",0.33880624175071716
+re7bfr,"What kind of problem?: Downloading
+
+Describe your issue: Downloads are failing. Cannot download creations.",0.3222390413284302
+sje9kf,"What kind of problem?: Downloading
+
+Describe your issue: Everything ids showing as a virus fail. It has not before.
+
+Brenda Demonbreun",0.32059627771377563
+qhwcdj,"What kind of problem?: Downloading
+
+Describe your issue: every time I try download this design it fails",0.3136453628540039
+6sw9iy,"What kind of problem?: Downloading
+
+Describe your issue: it keeps saying download failed",0.3125465214252472
+4m0pye,"What kind of problem?: Downloading
+
+Describe your issue: Failed to download",0.305263489484787
+uw1hxw,"What kind of problem?: Downloading
+
+Describe your issue: Failed downloading",0.3036050498485565
+ucevsa,"What kind of problem?: Downloading
+
+Describe your issue: says failed and try again and again and won't download",0.30297955870628357
+l32jwl,"What kind of problem?: Downloading
+
+Describe your issue: downloading keeps failing",0.29572170972824097
+iqwsan,"Describe your issue: Fail of download
+
+
+What kind of problem?: Downloading",0.2912061810493469
+g2eck0,"What kind of problem is there ?: Other Explain your problem: MY SAVED DESIGNS ARE FAILED, LOST",0.2850813865661621
+p138qu,"What kind of problem?: Downloading
+
+Describe your issue: Download keeps failing",0.24811123311519623
+tt28hk,"What kind of problem?: Downloading
+
+Describe your issue: Design keeps failing to download",0.24210460484027863
+f1jbqd,"What kind of problem?: Downloading
+
+Describe your issue: All downloads keep failing. URGENT",0.23316779732704163
+4s7dup,"What kind of problem?: Downloading
+
+Describe your issue: Failed to download pdf or png",0.23099717497825623
+6naggf,"Describe your issue: failed to download rerror??
+
+What kind of problem?: Downloading",0.21885262429714203
+3gu0yf,"What kind of problem?: Downloading
+
+Describe your issue: The download continues to fail no matter what file type I use.",0.20827960968017578
+hk7k4h,"What kind of problem?: Downloading
+
+Describe your issue: downloads keep failing. tried different computers, internet connections, and browsers.",0.2062428593635559
+c65k2m,"What kind of problem?: Downloading
+
+Describe your issue: Error occurred, download failed. No additional reason given",0.1971166431903839

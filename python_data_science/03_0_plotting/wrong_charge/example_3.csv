@@ -1,0 +1,585 @@
+feedback_id,examples,confidence
+v01ir0,"What is your problem with ?: Other Describe the problem: Hello, I did not plan to renew my subscription and it just automatically renewed. Please tell me if I can get my money back and cancel my subscription? Thank you",0.9825960397720337
+wbxj4r,"Account number: <NUMBER>Refund request reason: The subscription was renewed automatically, I do not need this tariff. Please cancel your subscription and get your money back.",0.9310001134872437
+nhff7y,"Account number: <NUMBER>Refund request reason: The subscription was renewed automatically, I do not plan to use the service. I just forgot to cancel the trial period. Please refund your money back.",0.9297158718109131
+qt6hm0,"Account number: <NUMBER>Refund request reason: I am requesting a refund for my subscription as it is automatically renewed. I am not using Canva, so please cancel my subscription and get my money back. I have not received any notifications to cancel it. With whom does not happen, please understand. I am requesting a refund for the subscription as it is automatically renewed. I am not using Canva, so please cancel my subscription and get my money back. I have not received any notifications to cancel it. With whom does not happen, please understand. I am requesting a refund for the subscription as it is automatically renewed. I am not using Canva, so please cancel my subscription and get my money back. I have not received any notifications to cancel it. With whom does not happen, please understand. I ask for a refund for the subscription, as it is renewed automatically. I don't use the Canva app, so please cancel my subscription and get a refund. I didn't get any notifications to cancel it. With whom it does not happen, please understand. Card <NUMBER>",0.927844226360321
+38jour,"Invoice number: <NUMBER>Refund request reason: I thought I had canceled the subscription renewal, but I just received an email that has been renewed. I am not going to use it anymore and I would like to cancel it and get my money back for this renewal. Thank you",0.9274851679801941
+fs2hio,"Invoice no .: <NUMBER>Refund request reason: I did not want to have my subscription renewed automatically and would like my money back. In the days since the renewal, I have not used the app or the website, so no service has been provided.",0.9224692583084106
+9f8l2o,"Invoice No.: <NUMBER>
+
+Refund request reason: I am sorry, I did not realize that my account was on automatic renewal.  I have not needed to use my account for awhile and was not going to renew the Pro account, rather I was going to go back to the free version.  I would really appreciate it if you would please refund this invoice and cancel my Pro subscription at this time.  Thank You!",0.9175727367401123
+pa3seq,"Invoice No.: <NUMBER>
+
+Refund request reason: I never use the service and didn’t realize it was set to auto renew. Please cancel and refund the subscription fee. Thank you.",0.9084316492080688
+upmpkk,"Invoice No.: <NUMBER>
+
+Refund request reason: I have tried to contact you guys through phone call to cancel this months Automatic renewal until I got paid next. I would like this month automatically renewal to be refunded, and then I will pay the 12.95 when I have the money for it.",0.886346161365509
+qpmt19,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not want to renew and the subscription automatically renewed without any notice. I had forgotten about this service and I do not use it.",0.8837021589279175
+ni9oqa,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not renew and Canva does not have my permission to renew through my financial institution. Please refund in full Thank You",0.8797343969345093
+sha8e5,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi,
+My subscription renewed even I just want to try the free trial. I don't want to have it renewed as I don't really use that much. Can you please cancell the subscription and proccess refund? Please help aa I am financially unable at the moment. Thank you",0.8790926337242126
+l5tc56,"Account number: <NUMBER>Refund request reason: My subscription was renewed automatically. Unfortunately, I forgot to cancel it. I would like to cancel my subscription and get my money back. Thanks in advance Translation: My subscription was renewed automatically. Unfortunately, I forgot to cancel it. I'd like to cancel it and return the money to my card. Thank you for advance.",0.8781303763389587
+ly7ggt,"Invoice No.: <NUMBER>
+
+Refund request reason: I tried to cancel the subscription prior to the renewal date. I went through the cancellation process and it kicked me out of Canva so I assumed the subscription was cancelled. I did not want this subscription to renew as I do not use it. Please refund the charge, thank you.",0.8766840100288391
+7nw2ug,"Invoice No.: <NUMBER>
+
+Refund request reason: Unfortunately, I did not realize that my subscription had automatically renewed. Can this subscription please be cancelled and a refund received.",0.8688805103302002
+wh2b4r,"Invoice No.: <NUMBER>
+
+Refund request reason: I already canceled my subscription last year, yet it was automatically renewed unbeknownst to me and I was charged for it today.  Please refund me and do not auto renew my account anymore.",0.8661444187164307
+k1u5qm,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled this subscription, but was still charged and auto-renewed. I have only used canva once. Please refund me. Thank you.",0.860298216342926
+abqckp,"Account number: <NUMBER>Refund request reason: I forgot to cancel the automatic renewal of the subscription, at the moment I have no money to buy the subscription, I was going to do it later, can you please cancel the subscription and get the money back?",0.8584086298942566
+myw1rb,"Invoice No.: <NUMBER>
+
+Refund request reason: I tried the free trial so I could use it for a class project. I was not satisfied with my overall experience with the app. Unfortunately I forgot I was subscribed to the free-trial and it automatically renewed. I would like a refund for the automatic renewal for the subscription.",0.8577147126197815
+l30qoq,"Invoice No.: <NUMBER>
+
+Refund request reason: Free subscription has been cancelled and subscription automatically renewed. Is it possible to get a refund?",0.8465347290039062
+ywfw7s,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, I did not know I was still subscribed to Canva. I remember cancelling it almost right away. I have cancelled the subscription now and would like a refund for the automatic renewal charge. Thank you.",0.8399023413658142
+1yaoc5,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, I hope you'll refund the automatic renew subscription on my account since it has been cancelled.",0.8352786302566528
+b6w81l,"Account number: <NUMBER>Refund request reason: The subscription was renewed automatically, I would like to cancel the subscription and get my money back.",0.8336398601531982
+homjky,Account number: <NUMBER>Refund request reason: The subscription was renewed automatically as soon as money appeared on the card. But I couldn't cancel before that. I want to get my money back and cancel my subscription,0.8326380252838135
+apb7wm,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription automatically renewed and I cannot afford it right now. If possible, I would like a refund and end the subscription to canvass pro.",0.830946147441864
+vtrw4e,"Invoice no.: <NUMBER>
+
+Refund request reason: I didn't want to renew my trial subscription and it automatically renewed. Please issue a refund and cancel my subscription. Thanks",0.8276060819625854
+bmuyia,"Invoice no.: <NUMBER>
+
+Refund request reason: I don't want to renew my account. Please cancel the subscription and refund my money. I already canceled my subscription then how you can renew without my permission. I want instant refund.",0.8273231387138367
+alwaun,"Invoice No.: <NUMBER>
+
+Refund request reason: Please I want to cancel my subscription and a refund if possible because It renewed automatically and I’m not using the services 
+Thank you",0.822055459022522
+pye989,Account number: <NUMBER>Refund request reason: I do not want to renew my subscription. The subscription has been renewed automatically. Return the money.,0.8173649907112122
+yjomex,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, i did not want the a subscription but it accidentally got subscribed automatically. Its just that i forgor to cancel the auto renewal. Please do provide me with a refund because i was not in need of the service right now. Thank you.",0.8128625154495239
+wt365f,"Invoice No.: <NUMBER>
+
+Refund request reason: i need to be refunded for recent renewal and subscription cancelled",0.8076510429382324
+prky5t,"Invoice No.: <NUMBER>
+
+Refund request reason: I don't really use this platform and was unable to cancel without being automatically renewed and then charged on day of deadline. Please refund me. Thank you!",0.8028313517570496
+ii4y6e,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription auto-renewed. I tried to cancel before the renew date, but was unable to do so. I haven't used Canva in over a month.",0.7948727011680603
+ia1tux,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my subscription on my iPhone App.  You still renewed the subscription. Please cancel and refund my account. Thank you.",0.7709800601005554
+2tdgg6,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription automatically renewed and I cannot afford it at this time.",0.7699099183082581
+cv8c2r,"Invoice No.: <NUMBER>
+
+Refund request reason: Sorry! I was supposed to cancel after the free trial. I did not realise it automatically renewed. I have now cancelled - can you please refund the payment? Thanks",0.7697352766990662
+nfhpkr,"Invoice No.: <NUMBER>
+
+Refund request reason: I didn't expect this auto renewal as I have a sub through my company. Can you please refund me the renewed amount and cancel my pro subscription? Thank you",0.7648473381996155
+yoe5du,"Invoice No.: <NUMBER>
+
+Refund request reason: Is it possible to get a refund? It automatically renewed and i signed up for the free trial forever ago and did not realize i had to cancel it or else it would charge my account.",0.7644268274307251
+2ah78t,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, my subscription automatically hot renewed without which I did not want. I no longer use Canva premium so I would like to request a refund. Please advise me on how to do so.",0.7636310458183289
+f2r0th,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi -- I have not been using Canva at all and didn't realize the subscription would renew. Please, can you cancel it all and refund me. Thanks.",0.7623535394668579
+0ky6ax,"Invoice No.: <NUMBER>
+
+Refund request reason: I need my money back, it automatically renewed my subscription.",0.7549475431442261
+h7hsf6,"Invoice no.: <NUMBER>
+
+Refund request reason: My Subscription renewed when I did not cancel it. Please can I have a refund as I am a student who will not use it and I also do not have the funds to be paying for this. Thanks",0.7527917623519897
+npkkqw,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription was automatically renewed, I was not expecting it. I do not need to use canva pro features and to renew my account because I am not using this app daily. Also, I was not aware that my card will be automatically charge for this, I thought there will be a request or something before the subscription continues.
+ 
+Hoping that I will get a refund. Thank you!",0.7516688704490662
+a068sn,"Invoice No.: <NUMBER>
+
+Refund request reason: I have never signed up for the automatic subscription, I am requesting a refund for the recent charge made yesterday.  I do not use canva services and did not give my consent for this position to be renewed.  thank you I hope you help me",0.7506951093673706
+t6pavf,"Invoice No.: <NUMBER>
+
+Refund request reason: I didn't realize the subscription automatically renewed and I wasn't planning on renewing it yet. Please cancel the subscription and refund me.",0.7504667639732361
+it1pfy,"Invoice No.: <NUMBER>
+
+Refund request reason: I would like to request a refund for my renewal. The subscription renewed today, January 18, 2021. I wasn’t aware that my subscription was renewed. I thought I cancelled it already. Thank you.",0.7500065565109253
+s3vjlg,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renewed and I no longer signed back in to this account. I am requesting a refund immediately.",0.7454012632369995
+w9dgq9,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renewed and I no longer signed back in to this account. I am requesting a refund immediately.",0.7454012632369995
+dixdhq,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renewed and I no longer signed back in to this account. I am requesting a refund immediately.",0.7454012632369995
+1ghlf8,Account number: <NUMBER>Refund request reason: the subscription was automatically renewed. I didn't want to renew it now. I ask you to return the money and turn off the paid subscription,0.7440205216407776
+hbc32l,"Invoice No.: <NUMBER>
+
+Refund request reason: It was automatically renewed from a trial and I did not know. There were no subscriptions on my phone coming up and the invoice went to my junk. I don't use it enough to justify the cost.",0.7428843975067139
+owncwk,"Invoice No.: <NUMBER>
+
+Refund request reason: I thought I was trying the service for a month.  I didn't realize it would automatically renew and I never received an email to indicate it would automatically charge.  I want to cancel my subscription and haven't been able to figure out how to do so.",0.7357582449913025
+u4hiwf,"Invoice No.: <NUMBER>Refund request reason: I didn't use it, but my subscription was automatically renewed and payment has been made. Please make a quick refund....",0.7353894710540771
+40wy6x,"Invoice No.: <NUMBER>
+
+Refund request reason: I didn’t realize with was going to automatically renew.  I did not use the service and request a refund",0.7348710894584656
+3ijryt,"Invoice No.: <NUMBER>
+
+Refund request reason: didn’t realize it was automatically renewing. cancelled on day of renewal. please refund",0.734311044216156
+05f920,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, the canva pro subscription renewed automatically. It renewed on 1/19/20. I ended the subscription on the same day so I would like to request a refund. I have no need for canva pro.
+
+Thank you!",0.7313074469566345
+syc1qd,"Account number: <NUMBER>Refund request reason: My subscription was renewed automatically, there was no request to confirm the withdrawal of funds. I ask for a refund for the subscription, because I didn't use it.",0.7312337160110474
+slqf68,"收据编号: <NUMBER>
+
+Refund request reason: Automatic subscription renewal，and we do not deside to use it now",0.7309800982475281
+0d49vw,"Invoice No.: <NUMBER>
+
+Refund request reason: I do not want to purchase a pro account, would like to cancel my subscription which automatically renewed, and would like a refund.",0.7299205660820007
+te5o3d,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription automatically renewed and I did not want to continue my subscription.",0.7282271385192871
+kk8mhm,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not renew my subscription and would like a refund.",0.726556658744812
+sycee4,"Invoice number: <NUMBER>Reason for the refund request: Hello, I canceled my canva Pro subscription before it was automatically renewed but I was still charged the amount from my account. thank you,",0.7229582071304321
+umcdpf,"Refund request reason: Hello! I don't want Canva Pro. It renewed automatically but i thought i had free trial time for at the end of the day, but it renewed at the middle of the day. 
+
+Invoice no.: <NUMBER>",0.7223867177963257
+rtcfy9,"Invoice No.: <NUMBER>
+
+Refund request reason: subscription automatically renewed, and I can not afford it",0.7216812968254089
+aus1at,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not ask for my subscription to be renewed and would like a refund. Thank you.",0.7199642062187195
+r3gol9,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renewed and I no longer signed back in to this account. I left several requests over a period of a year requesting these charges to be removed and refunded. I am requesting a refund immediately.",0.7181520462036133
+hoa97e,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renewed and I no longer signed back in to this account. I left several requests over a period of a year requesting these charges to be removed and refunded. I am requesting a refund immediately.",0.7181520462036133
+uwne3r,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renewed and I no longer signed back in to this account. I left several requests over a period of a year requesting these charges to be removed and refunded. I am requesting a refund immediately.",0.7181520462036133
+akaxvr,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renewed and I no longer signed back in to this account. I left several requests over a period of a year requesting these charges to be removed and refunded. I am requesting a refund immediately.",0.7181520462036133
+f5qr0x,"Invoice no.: <NUMBER>
+
+Refund request reason: Subscription was meant to be cancelled and not renewed.",0.7175418734550476
+ov23um,"Invoice number: <NUMBER>Refund request reason: I do not want to renew my subscription, I want a refund it was renewed on February 02 on February 03 I did not have time to cancel it if it is renewed on February 03 because they charge me on 02 February I was about to cancel the subscription and it came out that it was renewed I want a refund along with the cancellation of the subscription.",0.7152120471000671
+o07w57,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled the subscription but it still renewed this month",0.7118550539016724
+1g3hru,"Account number: <NUMBER>Refund request reason: The subscription was renewed automatically, I do not want to use it. Can you get a refund and cancel your subscription?",0.7105792164802551
+otn37s,"Invoice No.: <NUMBER>
+
+Refund request reason: I didn't realize that the subscription will be renewed automatically. Actually, I forgot that I am even on a free trial.",0.7088534235954285
+3wgroa,"Refund request reason: I did not want to renew my plan and I did not get an email warning me it would auto renew.
+
+
+Invoice No.: <NUMBER>",0.7085075378417969
+k7wol8,"Invoice No.: <NUMBER>
+
+Refund request reason: Automatically renew, play store didn't show me the option to disable the subscription",0.7075750827789307
+wptnxq,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not even put in my card information, I do not know why my subscription automatically renewed.",0.7025589346885681
+2e3cwk,Invoice #: <NUMBER>Refund request reason: My subscription was automatically renewed but I don't want to keep it. I don't use Canva.,0.7025415897369385
+6bnnlk,Invoice no .: <NUMBER>Refund request reason: My subscription is automatically renewed but I do not want to use it please can you make a refund.,0.7000266909599304
+cxdwx0,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled this prior to renewal and it still charged me and renewed itself.",0.6937149167060852
+fhgj0e,Refund request reason: I want a refund for the subscription that I was told today 01/28/21. I am not using the CANVA Pro and it has been renewed automatically. Invoice number: <NUMBER>,0.6871719360351562
+pogeqy,Invoice number: <NUMBER>Refund request reason: I do not want to automatically renew. Please refund me I need to bring money to pay for my education.,0.6846218109130859
+943mso,"Invoice No.: <NUMBER>
+
+Refund request reason: Not using Canva pro, subscription automatically renewed.",0.6821495890617371
+1l4yhl,"Account number: <NUMBER>Refund request reason: The trial subscription was automatically renewed. There was no need to renew the subscription. Please, return the funds to the linked card, since I do not need to use this service.",0.6803000569343567
+gowy9x,"Invoice no.: <NUMBER>
+
+Refund request reason: Subscription renewed automatically despite me having cancelled it.",0.679697573184967
+xdd67k,"Invoice No.: <NUMBER>
+
+Refund request reason: I didn't realize I was on an automatic renewal. I do not use this service and would like to cancel. I was just charged. Please refund me account. Thank you.",0.6796467304229736
+ow2huk,"Invoice No.: <NUMBER>
+
+Refund request reason: I was never asked about renewal. I used canva once a year, I want refund for the last 3 automatic renewals!",0.6778790354728699
+igk0dx,Account number: <NUMBER>Refund request reason: Subscription renewed automatically. I was not going to use the subscription further.,0.6773579120635986
+e68mtm,Account number: <NUMBER>Refund request reason: Subscription renewed automatically. I do not plan to use it in January-February.,0.675144612789154
+hf262y,"Invoice No.: <NUMBER>
+
+Refund request reason: I requested to not auto-renew but was still charged, please refund me and change the subscription back to the free one. thank you",0.6728941798210144
+mksyyj,"Account number: <NUMBER>Refund request reason: I don’t use the service, I didn’t know how to disable automatic renewal of my subscription.",0.6724953651428223
+5yi0xe,"Invoice No.: <NUMBER>
+
+Refund request reason: My free trial was automatically renewed without my consent and I was charged for it yesterday. I have not used it and I would like to request a refund. Thanks",0.67079758644104
+d6n4tg,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription was renewed automatically and I would like a cancelation and refund. Thank you.",0.6700462102890015
+wpe0cg,"Invoice No.: <NUMBER>
+
+Refund request reason: Kindly refund the deduction made on the account. I forgot to cancel the automatic renewal. I will not be using the app this month. I will this renew subscription when I am ready",0.6680296063423157
+kmv333,Account number: <NUMBER>Refund request reason: the subscription was renewed automatically and the account was not used in the future. I ask for a refund. Thank you.,0.6660104990005493
+ygm5r2,"Invoice No.: <NUMBER>
+
+Refund request reason: I didn't get a notification before the renewal.
+And I didn't use it. Please cancel it and refund me the full amount.",0.6652373671531677
+vijkc8,"Invoice no.: <NUMBER>
+
+Refund request reason: Hi there, the subscription automatically renewed and I really did not enjoy the premium subscription in the free trial as I no longer need Canva. Would it be possible to get a refund please?",0.6620717644691467
+2d5dnx,"Invoice No.: <NUMBER>
+
+Refund request reason: I just cancelled the subscription. I never meant to renew it",0.6619063019752502
+glwl8m,"Invoice No.: <NUMBER>
+
+Refund request reason: Sorry, I didn't realize my subscription was renewing at this time.",0.6608725786209106
+3eno8v,"Account number: <NUMBER>Refund request reason: Hello! My subscription has been renewed automatically, can I get a refund?",0.6602614521980286
+rmd7u8,"What kind of problem?: Other
+
+Describe your issue: Please cancel the pro automatic renewal which was taken from our account today and refund the subscription. I didn't know it renewed automatically. my account is <EMAIL> (felicity2).
+I l;ook forward to hearing from you",0.6512695550918579
+r88fpl,Invoice number: <NUMBER>Refund request reason: I am making a complaint because I do not use Canva's services and the automatic renewal has charged my card. Please suspend your subscription and request a refund as well.,0.6470872759819031
+ugox30,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription automatically renewed, and I would like to cancel it and receive a refund for the subscription. Thanks!",0.6464815735816956
+ei5if4,"Invoice no.: <NUMBER>
+
+Refund request reason: I thought I cancelled the automatic renewal. Can I get a refund please? 
+
+Thank you guyys!",0.6438955664634705
+eb10df,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, my subscription was automatically renewed and I did not want it to be. I was charged $12 automatically for a service that I won’t use. If I could have a refund, because I won’t be using my canva subscription.",0.6434406638145447
+1j4x1c,"Account number: <NUMBER>Refund request reason: Hello The subscription has been automatically renewed, I want to cancel it and get a refund. since I have not received any notification that the subscription will be renewed.",0.6415793895721436
+jreaqj,"Account number: <NUMBER>Refund request reason: Hello! Subscription renewed automatically, I no longer use conva. I ask for a refund.",0.6366591453552246
+uxe5qj,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my subscription on my iPhone Apple account. You still renewed the subscription.",0.6288448572158813
+3nq6db,"Account number: <NUMBER>Refund request reason: We ask for a refund for the subscription, as it was automatically renewed. And I stopped using this application for a long time.",0.6253809928894043
+2jbmko,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello! I would like a refund from the automatic renewal as I won’t be using these services for this month. 
+
+Thank you!",0.6196457743644714
+eeo69t,"Invoice no.: <NUMBER>
+
+Refund request reason: Automatic renewal, I do not use canva and did not notice it automatically renewed.",0.6195216178894043
+3jo4mc,"Invoice no.: <NUMBER>
+
+Refund request reason: Automatic renewal, I do not use canva and did not notice it automatically renewed.",0.6195216178894043
+mgcrob,"Invoice No.: <NUMBER>
+
+Refund request reason: THE SUBSCRIPTION AUTOMATICALLY RENEWED without me knowing it. 
+I did not want to continue my subscription for this year.",0.616481602191925
+cy17d9,"Invoice number: <NUMBER>Refund request reason: My subscription was automatically renewed and I had no intention of renewing, at the moment I don't need to use canva !! I request a refund, as I should be informed that the subscription would be renewed !!",0.6159439086914062
+mmgyro,"Invoice No.: <NUMBER>
+
+Refund request reason: Because it automatically to renew and don't have warning email before making purchase. So please kindly refund to me :(",0.6143727898597717
+q5veci,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled this but it somehow still renewed. Please refund my money ASAP",0.614309549331665
+qvob1n,"Account number: <NUMBER>Refund request reason: Hello, I did not cancel the subscription by mistake, it was renewed automatically, please issue a refund",0.6120777726173401
+pdj1xw,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled my membership yesterday and today my account got renewed automatically.",0.6118811368942261
+08d7mf,Invoice No .: <NUMBER>Refund request reason: The subscription was automatically renewed and as I did not receive notice I did not realize it. I request a refund and forgive the inconvenience. I have not used any premium content.,0.6073916554450989
+b15pao,"Invoice number: <NUMBER>Refund request reason: The subscription was renewed and charged automatically without my consent, I would like to request the cancellation of the invoice and refund of the payment. I have no interest in the services. My plan signature has been renewed and charged automatically without my consent, I would like to request the cancellation and full refund. I have no interest on this service. Thanks thanks",0.6060625910758972
+21qlut,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not want the automatic renewal subscription to Canva pro",0.6042179465293884
+5w796w,"Invoice No.: <NUMBER>
+
+Refund request reason: Automatically renewed after 30 day trial - I did not expect this to be automatic and will not be using the pro features.",0.6032482385635376
+ebeh41,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription was automatically renewed per invoice #<NUMBER>.  Subscription was cancelled effective February 5, 2021.  Please refund subscription fees charged.  Thanks.",0.6020095348358154
+11j2iu,"Reason for the refund request: I was told that I would receive a message warning me before the automatic renewal of my pro subscription. It didn't, so I would like a refund. Thanks in advance, Best regards, Invoice number: <NUMBER>",0.5995925664901733
+wgybak,Account number: <NUMBER>Refund request reason: The auto subscription was renewed I want to get a refund,0.5969365239143372
+n79w6f,"Invoice No.: <NUMBER>
+
+Refund request reason: I have cancelled this automatic renewal TWICE and keep getting billed. Please refund and cancel my account immediately.",0.5894999504089355
+jbmbuc,"Invoice number: <NUMBER>Reason for the reimbursement request: Hello, My subscription was renewed automatically, although I no longer use your services. I would like a refund, Regards,",0.5861338973045349
+iyppsw,"Invoice No.: <NUMBER>
+
+Refund request reason: I was not planning to subscribe. This is automatically renewed. Please cancel and refund me. Thank you",0.5845192074775696
+lo4acu,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, the Subscription automatically renewed without permission and i would like to cancel the plan please and receive a refund.",0.5830517411231995
+twa9kl,"Invoice No.: <NUMBER>
+
+Refund request reason: It will get auto renewed. Please refund",0.5826783180236816
+qpg3if,Invoice number: <NUMBER>Refund request reason: The subscription is automatically renewed and has not been cancelled.,0.5820254683494568
+3hms60,Refund request reason: The reason I just wanted to use it for trial and I was not satisfied then the account automatically renewed without my permission Invoice number: <NUMBER>,0.5814675688743591
+8tsl2h,"Invoice No.: <NUMBER>
+
+Refund request reason: This subscription was never meant to renew. I didn't realized I did not cancel it until after I was charged.",0.5799750089645386
+nfplvp,Invoice number: <NUMBER>Refund request reason: I want a refund of the money if I renew automatically thanks,0.5799338817596436
+yfn1gd,"Account number: <NUMBER>Refund request reason: Hello, This is a subscription refund request, the subscription was automatically renewed, but I am not running this application and would like to cancel the subscription and refund. Thank you.",0.5790940523147583
+yu5uk1,"Invoice No.: <NUMBER>
+
+Refund request reason: I do not want to renew  my subscription - it was an automatic renewal.",0.5758769512176514
+6i7s58,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription automatically renewed, but my employer has paid for this subscription, so this is a duplicate. Might it be possible to get a refund and cancel my subscription?",0.5750699639320374
+syp44w,"Account number: <NUMBER>Refund request reason: My subscription was renewed due to an error, I want to cancel it and get my money back",0.5732424259185791
+1dq3cl,"Invoice No.: <NUMBER>
+
+Refund request reason: Automatic renewal and I got charged without being Asked to confirm the renewal.",0.5712335109710693
+3q777p,"Invoice No.: <NUMBER>
+
+Refund request reason: Automatic renewal and I got charged without being Asked to confirm the renewal.",0.5712335109710693
+g3cifn,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, I haven't used your Pro service in months and never planned to renew. My former marketing assistant set this account up and I would like to be put on the free plan until my next project instead of automatic renewal. I was billed today for a full year automatically and am requesting a refund, thank you.",0.5702405571937561
+s8l4bv,"Invoice no.: <NUMBER>
+
+Refund request reason: Have not used canva in awhile. Auto renewed",0.5675318837165833
+8s28ss,"Invoice No.: <NUMBER>
+
+Refund request reason: The subscription automatically renewed but I do not need Canva Pro, and have not used any of its features since it was renewed one day ago. I would like to cancel my subscription and receive a refund.",0.5655789971351624
+5clh4e,"Invoice No.: <NUMBER>
+
+Refund request reason: It was cancelled and it was automatically renewed. I would like a refund.",0.5653066635131836
+oqv8n8,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription was auto-renewed. Our company has closed due to Covid. Kindly cancel and refund.",0.5651202201843262
+kifnlh,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, I forgot to cancel the subscription. And I got a message today that it was renewed automatically. Please refund this",0.5638501048088074
+xo35ef,"Invoice no.: <NUMBER>
+
+Refund request reason: I was automatically renewed without any notification of the upcoming charge. I do not use the service please refund.",0.5612339973449707
+5hc3gf,"Invoice No.: <NUMBER>
+
+Refund request reason: Last subscription on 26Dec. Don't need renewal now. Again charged on 23Jan. Please refund. Thanks",0.5593858361244202
+tps09o,Invoice number: <NUMBER>Reason for the refund request: I canceled my subscription on the date of the renewal. Will I be reimbursed?,0.5592963695526123
+ntderc,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, I havent used the subscription much and it hasnt been useful for what i am looking for.  The subscription automatically renewed yesterday, so i request you to please refund the fee.",0.5557587146759033
+4jo9we,"Invoice No.: <NUMBER>
+
+Refund request reason: The subscription automatically renewed without informing me of this.",0.5538369417190552
+w5r6op,"Invoice No.: <NUMBER>
+
+Refund request reason: never used any service -automatic renewal",0.5532598495483398
+ii39e1,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renewed. I didn’t want to renew again for the month of February.",0.5527377724647522
+il63b0,"Invoice No.: <NUMBER>
+
+Refund request reason: subscription automatically renewed. I have been home sick quarantining.",0.5467996597290039
+se83ay,Account number: <NUMBER>Refund request reason: Good day. I renewed my subscription by mistake. wanted to cancel the trial subscription but accidentally clicked to renew it. I ask for a refund,0.5423852205276489
+v0fplb,"Invoice No.: <NUMBER>
+
+Refund request reason: automatic renewal... I do not use Canva...",0.5401433706283569
+rvg68s,"Invoice number: <NUMBER>Refund request reason: Subscription was automatically renewed, I would like a refund and cancellation of the subscription",0.5386085510253906
+q2mo28,"Invoice No: <NUMBER>Refund request reason: The subscription has been automatically renewed, but I request the refund and the cancellation of the annual subscription",0.5379380583763123
+lfb953,"Invoice no.: <NUMBER>
+
+Refund request reason: My subscription automatically renewed. Please refund it",0.5377638339996338
+01qoaj,"Invoice No.: <NUMBER>
+
+Refund request reason: We do not have the proper funds to cover this charge. Did not want to automatically renew. Please cancel payment/refund asap. Thank you.",0.5357465147972107
+1s3icy,"Refund request reason: Hello! I ask for a refund for the subscription, it has been renewed automatically. Account number: <NUMBER>",0.531623899936676
+4w2aug,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription automatically renewed, and I don’t not recall enabling automatic payment nor am I interested in using the subscription. Please cancel it.",0.5308531522750854
+trp6cw,"Invoice no.: <NUMBER>
+
+Refund request reason: My subscription renewed automatically , I had no intention to renew my subscription. Because financially I can not afford it , also the card that was charge was not my card it is my associate's card. Thus , I am kindly requesting a refund .",0.5306597948074341
+g4dsog,"Invoice number: <NUMBER>Refund request reason: I made the experimental plan, I didn't like it and now they renewed it automatically, I wouldn't like to have signed it. I ask that the subscription be canceled and the refund made.",0.5220856070518494
+6mvrf6,"Account number: <NUMBER>Refund request reason: I ask for a refund, because the subscription was renewed automatically",0.5188968777656555
+5662oj,Invoice #: <NUMBER>Refund request reason: when I took the canva pro free trial the next day I canceled the subscription. This is an unauthorized and previously canceled automatic renewal,0.5171786546707153
+r4or0r,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled my subscription and it still renewed",0.5086703300476074
+t4rgss,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not select automatic renewal option for the subscription. In contrast, I opted for one month only.",0.5017666816711426
+8axido,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, my subscription is automatically renewed. I forgot to cancel it and I am financially in trouble. I would like to request a refund. 
+I look forward to hear from you, thank you.",0.49794721603393555
+g85ukg,"Invoice #: <NUMBER>Refund request reason: I have been charged for an automatic renewal that I did not want, in fact I have never used this application. Thanks",0.4962858259677887
+nbidce,Invoice number: <NUMBER>Refund request reason: The subscription was automatically renewed after the trial period. I am not interested in signing Canva pro,0.4948878884315491
+c4l0fo,"Account number: <NUMBER>Refund request reason: I didn't plan to use the application, the subscription renewed automatically today. I ask you to cancel your subscription and return the payment.",0.49251142144203186
+ol64tv,"Account number: <NUMBER>Refund request reason: The subscription was automatically renewed, although in the application I removed the card number for payment and canceled the auto-renewal. I ask for a refund.",0.4897487163543701
+ochkaa,"Invoice number: <NUMBER>Refund request reason: I didn’t want to renew the subscription, but it was automatically deducted, but the cost is too high and I cannot afford it at present",0.48787426948547363
+9411u2,"Invoice No: <NUMBER>Refund request reason: subscription automatically renewed, I don't want to continue using Canva Pro",0.48662036657333374
+iexufs,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled it before today but it automatically renew. I want to cancel subscription please. Also I cancelled last month but it auto renew. 
+Thanx",0.48304566740989685
+1513ki,"Invoice number: <NUMBER>Refund request reason: We request a refund. I haven't received any renewal emails or notifications prior to the automatic renewal date. In order to sign up for a company account rather than an individual account in the future, we request a refund for this automatic renewal. Thank you.",0.47876766324043274
+5id1cc,"Invoice No.: <NUMBER>
+
+Refund request reason: Renewed automatically, I would like to cancel and get refund for this month",0.4752998948097229
+9dhfri,"Invoice no.: <NUMBER>
+
+Refund request reason: Hi there, I had already cancelled my subscription as I had set a reminder for the same. However, it still renewed automatically resulting in the charge. Requesting you to kindly refund the amount for the latest charge and cancel subscription. 
+Thanks.",0.47441864013671875
+4cqbil,"Invoice No.: <NUMBER>
+
+Refund request reason: It automatically renewed but I have no use for it. Would like to get a refund.",0.4695815145969391
+i33pel,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renewed. Can I please cancel and request a refund.",0.4559009373188019
+etsnhk,"Invoice No.: <NUMBER>
+
+Refund request reason: This has been renewing all year without me realising, this does not renew for my convenience it renews so that you keep collecting money. Check my account i have not logged in for over 12 months and i would like a full refund please for all invoices this year",0.45253849029541016
+0hku73,"Invoice No.: <NUMBER>
+
+Refund request reason: I had no idea it would renew for a year. Please refund and cancel.",0.4512905180454254
+1p80n4,"Invoice No.: <NUMBER>
+
+Refund request reason: I don't remember renewing my account and was I was surprised to see an invoice. If I knew I had renewed for a trial period, I would have cancelled before the renewal date.",0.44945892691612244
+dh9mur,"Invoice No.: <NUMBER>
+
+Refund request reason: I want to cancel my subscription and it automatically renewed.",0.43961164355278015
+6wtnh1,"Invoice No.: <NUMBER>
+
+Refund request reason: Automatically renewed, did not approve of renewal",0.4377605617046356
+l7x3av,"Invoice number: <NUMBER>Reason for the refund request: Hello, I did not want to renew my subscription and unfortunately I was billed automatically. Can you process a refund. Thanks for your help. Regards,",0.434622198343277
+qe47ku,"Invoice number: <NUMBER>Refund request reason: Your subscription has been automatically renewed since the trial version. I would like to refund the 1-year pass. If a full refund is not possible, please do so excluding the one-month fee. Thank you.",0.4333671033382416
+olmdro,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renewed.",0.4292962849140167
+37jhls,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renewed.",0.4292962849140167
+bxd6tc,"Invoice number: <NUMBER>Refund request reason: Hi, I didn't turn off auto-renew by mistake and I had already paid on my other account, please",0.4283754825592041
+kj7mff,"Invoice No.: <NUMBER>
+
+Refund request reason: It automatically renewed and I was going to cancel it this month. I don’t have the money to give to this and I’m not working on my project rn",0.4201812744140625
+hht2tt,Invoice No .: <NUMBER>Reason for the refund request: I was not careful enough and forgot to cancel the automatic renewal. Please excuse me.,0.41596558690071106
+dkongy,"Invoice No.: <NUMBER>
+
+Refund request reason: This charge was automatically renewed but I submitted its cancellation, as you may see, it was not used that much so please refund",0.4155675768852234
+v4kmqf,"Invoice No.: <NUMBER>
+
+Refund request reason: I do not choose to renew my subscription, and did not realise the payment would automatically go through today. Thanks",0.4141598045825958
+si2st9,"Invoice No.: <NUMBER>
+
+Refund request reason: I didn’t want to automatically to renew.",0.41317543387413025
+6aeo5w,"Invoice No.: <NUMBER>
+
+Refund request reason: never used it - automatic renewal",0.4113396108150482
+6tvwpo,"Invoice No.: <NUMBER>
+
+Refund request reason: never used it - automatic renewal",0.4113396108150482
+7jiv1l,"Invoice No.: <NUMBER>
+
+Refund request reason: i never used and it was automatic",0.4111960232257843
+siuaor,Invoice #: <NUMBER>Refund request reason: Same issue about auto-renew that I didn't ask for,0.41093331575393677
+xmhumt,"Invoice No.: <NUMBER>
+
+Refund request reason: I do not want to renew . Billing on the 15th on feb.",0.40988636016845703
+61xhhg,"Invoice No.: <NUMBER>
+
+Refund request reason: This automatically renewed and I don’t have the funds for it right now",0.4064258337020874
+lki7nl,Refund request reason: The subscription was automatically renewed after the free trial period. Invoice number: <NUMBER>,0.40497052669525146
+k2kv9v,"Account number: <NUMBER>Refund request reason: the renewal was automatic, I do not want to use the service",0.4023458957672119
+bs3144,"Invoice No.: <NUMBER>
+
+Refund request reason: I had tried to cancel my auto renewal but had the wrong date on when I was going to be charged.",0.4021431803703308
+3rvwsi,Invoice No: <NUMBER>Refund request reason: Subscription renewed automatically but I no longer use the application,0.3987586796283722
+b0bjw4,Account number: <NUMBER>Refund request reason: the subscription was automatically renewed. I didn't want to buy it,0.3972504138946533
+6mtaic,Invoice number: <NUMBER>Refund request reason: the renewal was automatic but I don't use your services. I would like to receive a refund of the amount paid.,0.3791305422782898
+k51ynp,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, I didn't realise that the monthly subscription will be automatically renewed. Hence I have cancelled the subscription and would like to request for a refund if possible. 
+
+Thank you.",0.37798991799354553
+hv4bad,"What kind of problem are you reporting ?: Other Describe the problem: Automatic renewals. It is not over on February 6th yet, I wanted to cancel my subscription, but it was automatically renewed before the end of the day",0.37702199816703796
+wyyucn,"Invoice No.: <NUMBER>
+
+Refund request reason: My subscription has been automatically renewed. 
+I forgot to cancel the subscription.",0.3757084906101227
+mtuyc3,"Invoice No.: <NUMBER>
+
+Refund request reason: Did not receive a reminder before renewing subscription. Please cancel the subscription.",0.3750876486301422
+4sgm4r,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not asked for renew. It was a mistake.",0.3703251779079437
+w1svg3,"Invoice No.: <NUMBER>
+
+Refund request reason: I forgot to cancel the automatic renewal but I did not use the service at all.",0.3691425621509552
+qulnib,"Invoice no.: <NUMBER>
+
+Refund request reason: Canva Pro plan automatically renewed before I could cancel the payment for the upcoming month.",0.3647129535675049
+2i7uf5,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription renewed automatically and wanted to cancel it.",0.3583468198776245
+oakuqv,"Invoice No.: <NUMBER>
+
+Refund request reason: Did not desire to renew.",0.3568715751171112
+t1hsfh,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, your email said the subscription would be renewed on the 27th it was on my list to cancel it today but I didn't get the chance to do it before it was renewed.",0.35407909750938416
+o6spuy,"Invoice No.: <NUMBER>
+
+Refund request reason: The subscription automatically renewed, I need to cancel it.",0.3508196473121643
+yph6i0,"Invoice no.: <NUMBER>
+
+Refund request reason: I wanted to cancel, Subscription automatically renewed,",0.3468729257583618
+gilt9o,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renew",0.34661221504211426
+8de949,"Invoice number: <NUMBER>Refund request reason: Hi, I just realized that canva pro was automatically renewed and I use it on another account:<EMAIL> Could you help me?",0.3462613523006439
+fduq6c,"Account number: <NUMBER>Refund request reason: Hello, the subscription was renewed automatically, I liked canva very much, only I don't need a subscription, thanks for your understanding!",0.3452593684196472
+ima9dq,"Invoice No.: <NUMBER>
+
+Refund request reason: I forgot to cancel the automatic renewal but I have not used the service at all.",0.3429705798625946
+peang8,Account number: <NUMBER>Refund request reason: The subscription was renewed automatically!,0.3426412045955658
+78shc3,"Invoice number: <NUMBER>Refund request reason: My subscription was automatically renewed, I have previously tried to cancel it but I can't do it, please help me cancel it and refund",0.34050416946411133
+drymqs,"Account number: <NUMBER>Refund request reason: Automatic renewal, would like to cancel and issue a refund",0.3371654450893402
+w3l4sd,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not want automatic renewal",0.3357209861278534
+06csjn,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription auto renewed",0.32766613364219666
+vm5sub,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically renews",0.3217628002166748
+qwleuh,"Invoice No.: <NUMBER>
+
+Refund request reason: My automatic renewal went into effect 1/29/2021. I am canceling on this date.",0.315195232629776
+vg09x2,"Invoice number: <NUMBER>Refund request reason: Automatic renewal, but at the moment I no longer use it.",0.30823367834091187
+0mdaxs,"Invoice number: <NUMBER>Refund request reason: I ask you to unsubscribe as I had not received the email with the account expiration and I requested cancellation on January 9, the day of the automatic renewal.",0.3037300705909729
+tu5i7h,Refund request reason: Subscription was automatic Account number: <NUMBER>,0.30348819494247437
+xiuf8j,"Invoice No.: <NUMBER>
+
+Refund request reason: I would like to cancel and not renew the subscription",0.3021811544895172
+yt64py,Account number: <NUMBER>Refund request reason: Wrong renewal of subscription,0.29476532340049744
+dl2rlt,"Invoice No.: <NUMBER>
+
+Refund request reason: tried to cancel before renewal and was unable to",0.2917769253253937
+423lgj,"Invoice number: <NUMBER>Refund request reason: Good afternoon! Please I really need your help. I signed your annual plan last year, but I didn't know that the renewal would be automatic. Yesterday the plan was automatically renewed, but I am unable to continue paying. Please ask them to cancel and reverse the amount.",0.28357312083244324
+adnjr5,"Invoice number: <NUMBER>Refund request reason: Good afternoon! Please I really need your help. I signed your annual plan last year, but I didn't know that the renewal would be automatic. Yesterday the plan was automatically renewed, but I am unable to continue paying. Please ask them to cancel and reverse the amount.",0.28357312083244324
+wm4k0b,"Account number: <NUMBER>Refund request reason: the subscription was automatically renewed, this month I am not planning to design",0.25478121638298035
+oo9th5,Account number: <NUMBER>Refund request reason: Forgot to turn off automatic renewal subscription,0.254306435585022
+2xai1l,"What do you need help with?: I would like to cancel my subscription before the 16th of Jan (the date it is due to renew). My company does not allow auto-renew, so  I have to cancel the subscription and then subscribe again. It would be great if you had another option other than auto-renew.",0.23327894508838654
+7hyyjj,Invoice number: <NUMBER>Refund request reason: Hello! Subscription has been automatically renewed. I have ordered a cancellation. The funds have been blocked on the card. Please cancel the payment.,0.2319023162126541
+r11pb8,"發票號碼: <NUMBER>
+
+Refund request reason: I don't need the function of Canva Pro and I don't see the renew would be made automatically.",0.09564682841300964

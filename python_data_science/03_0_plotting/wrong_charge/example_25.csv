@@ -1,0 +1,349 @@
+feedback_id,examples,confidence
+pwx1ys,"Invoice No.: <NUMBER>
+
+Refund request reason: I didn’t use the service and it automatically renewed my subscription from trial to month subscription. I haven’t been working since March 2020 and can’t afford to be using this paid service. Please could you refund my money.",0.9553113579750061
+j1qsol,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi I had applied for a trial and did not use the service at all. I also have no plans to use it this month. I have cancelled my subscription and it would be great if you could refund my money.
+
+Thanks",0.9495593905448914
+a018f4,"Invoice No.: <NUMBER>
+
+Refund request reason: Thank you for the free trial I do not use the service and now my moms bank card was charged 119.00$ Please refund her as I do not use the service at all. Thank you so much",0.936857283115387
+n5x9s5,"Invoice no .: <NUMBER>Refund request reason: I used a trial version. After this, it was tacitly renewed while I canceled the subscription. I have not used the pro services. I would like the money back as I only used the services for the trial month.",0.910968005657196
+x9exq4,"Account number: <NUMBER>Refund request reason: I do not need to renew my Canva Pro subscription. I rarely use the service, the free subscription is enough for me. Please refund my money.",0.9098452925682068
+asdtl3,"Invoice No.: <NUMBER>
+
+Refund request reason: I would like to cancel my membership. I have never used this service and I would also like my money back.",0.9048898816108704
+doanb4,"Invoice No.: <NUMBER>
+
+Refund request reason: My free trial accidentally renewed - I do not use the service. Can I please be refunded for it?",0.9043034315109253
+vwcnhs,"Account number: <NUMBER>Refund request reason: The subscription was made by accident. I don't use the service, I want to get my money back",0.903094470500946
+2rdikk,"Invoice No.: <NUMBER>
+
+Refund request reason: I never agreed to this subscription and I’m not using the service. I would like for you to cancel the subscription and refund the money please.",0.9014203548431396
+ar414k,"Invoice No.: <NUMBER>
+
+Refund request reason: I do not want to use this service through July, please refund me the remaining subscription. Thank you for your help.",0.8981178998947144
+qcaign,"Refund request reason: Hi I want to cancel my subscription and get a refund for the remaining months I have not used the service for. 
+
+
+Invoice No.: <NUMBER>",0.879932701587677
+w6wm97,"Invoice No.: <NUMBER>
+
+Refund request reason: I have already cancelled this service. Last month I do not want to continue with your service please stop charging me",0.8762496709823608
+ju2qhr,"Invoice No.: <NUMBER>
+
+Refund request reason: G’day.  I did not mean to subscribe to Canva on a continual basis.  You’LL notice I don’t use your service regularly at all.  I think I might have logged on in Dec to you use only free services.  So can you please cancel my subscription and refund all charges (as I don’t think I used any paid services).   Many thanks. <NAME>",0.8737457990646362
+wyy970,"Invoice No.: <NUMBER>
+
+Refund request reason: The subscription was automatically renewed after I cancelled it from not using it. I haven't used the service or will be using the service.",0.8718090653419495
+jrsno4,"Invoice No.: <NUMBER>
+
+Refund request reason: Please refund my subscription, I cannot afford nor will I be using the service. Thank you.",0.8717360496520996
+3xv201,"Invoice No.: <NUMBER>
+
+Refund request reason: I have not been able to use your service. I just noticed I have been billed three times and have not used your service. Please refund my money to my card. Cancel service immediately. Lawonda <NAME>  <NUMBER>",0.867167055606842
+yhpbq7,"Invoice No.: <NUMBER>
+
+Refund request reason: Please refund this charge as I was charged for a trial subscription that should have been cancelled. I have not used the canva services in a long time. Thank you.",0.8613681793212891
+ulyjfb,"Account number: <NUMBER>Refund request reason: Good afternoon. I used the service some time ago. I tried the subscription. After that, the service was not needed. The money was debited automatically. After auto-write-off, the service was not used and will not be used. Therefore, I would like to request a refund.",0.8536599278450012
+41uq3u,"Invoice No.: <NUMBER>
+
+Refund request reason: I just paused my subscription because we are not using this service at this time. I plan to continue use with your services at a later date, but can not afford to do so while we are not using them.",0.8448939323425293
+00sugc,"Invoice No.: <NUMBER>
+
+Refund request reason: Unsatisfied with service. I would like my money back.",0.8415454030036926
+jcmjf8,"Invoice No.: <NUMBER>
+
+Refund request reason: I would like to cancel my subscription and a refund of the funds charged. I did not use your service.",0.8334313035011292
+5fkckv,"Invoice No.: <NUMBER>
+
+Refund request reason: I was automatically charged after the trial has ended and I would like to get a refund since I am not using Canva's service at all. I do not need this pro subscription and I am not satisfied with the service. I would be very grateful if you could make a subscription payment refund.",0.8332805037498474
+miuujk,"Account number: <NUMBER>Refund request reason: I forgot to cancel my subscription in time. I don't plan to use the service at the moment. I did not use the service after the trial period. I ask for a refund for the annual subscription, tk this amount is very large for a service that I will not use at the moment. Thank you",0.8331363201141357
+oo9mrn,"Invoice No.: <NUMBER>
+
+Refund request reason: I don’t need this service and was not aware I was going to be charged. I’m never going to use this service again so I need a full refund of my funds.",0.8298963308334351
+uommtl,"Invoice No.: <NUMBER>
+
+Refund request reason: I I forgot about this subscription until I checked my bank I don’t use this service I need a refund please thank you",0.8225957155227661
+yjw070,"Invoice No.: <NUMBER>
+
+Refund request reason: I haven't used your service for ages and DID NOT receive warning about charges. Please, give me money back.",0.8219315409660339
+m4nwd1,"Invoice no.: <NUMBER>
+
+Refund request reason: Did not want the service 
+
+But thank you for the free trial",0.8214547634124756
+knf207,"Invoice No.: <NUMBER>
+
+Refund request reason: I was unaware I was being charged for the service. I do not use the service and have canceled my subscription. I would like a refund for the most recent charge and the previous charge if possible. I never used the service.",0.8131725192070007
+9ki1so,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled this service last year. I was billed again. I have not used this service in several years. Please issue a refund to my credit card. Thanks",0.8088706135749817
+yhygte,"Invoice no.: <NUMBER>
+
+Refund request reason: I don't want to continue your service. So please refund my money that you have cut from account.",0.8054654002189636
+70cxmk,Account number: <NUMBER>Refund request reason: I ask for a refund. I do not plan to use the service further,0.805004894733429
+q9xpek,"Invoice No.: <NUMBER>
+
+Refund request reason: I haven't used the service but once I don't know how many months you guys have been charging me probably just this one since I finally have money in my PayPal but I don't even use the service I would like a refund I cancel it today it was supposed to been cancelled after my free trial",0.7914987802505493
+70pifv,"Invoice No.: <NUMBER>
+
+Refund request reason: I dont want this service give me my money back",0.7817283272743225
+gpx8r4,"Invoice No.: <NUMBER>
+
+Refund request reason: As per last message - are you able to refund all subscription costs as the service was cancelled a while back.",0.7739484906196594
+4uxgu5,"Invoice No.: <NUMBER>
+
+Refund request reason: I don’t recall signing up for a subscription as I have been using Canvas free services. I am requesting a refund please.",0.7693360447883606
+ejol5r,"Account number: <NUMBER>Refund request reason: I would like to request a refund, I didn’t use it and I’m not going to use the service",0.7671176791191101
+8svg5k,"Invoice No.: <NUMBER>
+
+Refund request reason: i did not use the service at all",0.7656951546669006
+mqyk75,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled this service in December after I realized that it wouldn't be meeting my needs. I have not used the service since. Thank you.",0.7653434872627258
+7ifvf6,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not use the service at all",0.7618438005447388
+30xl7i,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello,
+I did not find this service useful the one time that I used it. I never used it again and I would like my money back. Thank you",0.7606291174888611
+pg6on4,"Invoice No.: <NUMBER>
+
+Refund request reason: We did not have any use for the service for the month of January. Due to a family emergency we had forgotten to cancel our service.",0.7578697204589844
+xaondt,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, I would like a refund for this subscription. I first signed up for the trial  to try it out and I didn't get use the premium features as I did not find them useful for my work. and I cannot afford to pay for a service I have no use for. Its a great service but its just not for me.",0.7551668882369995
+0yneij,"Invoice No.: <NUMBER>
+
+Refund request reason: I do not have an active subscription and I keep getting charged for this service.  Can you help me cancel this and refund my charges.",0.7521319389343262
+j3oxkm,"Account number: <NUMBER>Refund request reason: I ask you to cancel your subscription and get a refund, because I have not been using this service for a long time. Thank you",0.7470483779907227
+vcq0e6,"Invoice No.: <NUMBER>
+
+Refund request reason: I don't used you service, and not going to,",0.743118166923523
+463mli,"Invoice No.: <NUMBER>
+
+Refund request reason: Had requested the service cancelled. Do not want or need Canva Pro.",0.73507159948349
+x4bw2g,"Invoice no.: <NUMBER>
+
+Refund request reason: Hello, 
+I would like to cancel my subscription, I was not able to use the service. Kindly process a refund for the charged amount. Thank you!",0.7243942022323608
+6mom66,"Invoice No.: <NUMBER>
+
+Refund request reason: I was unable to use your service and I request that the amount charge to my card be refunded , I have not used your service sense I have had it",0.722947895526886
+x5h6y0,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello - I do not use this service and was charged. Can you please help?",0.7214359641075134
+3fqt9u,"Invoice No.: <NUMBER>
+
+Refund request reason: Can you please refund this invoice. Have not use service via this subscription.",0.7200501561164856
+09fkrg,"Invoice No.: <NUMBER>
+
+Refund request reason: I do not want to use the premium service this time.",0.7055572271347046
+d78vju,"Refund request reason: I never used the service.  I would like to request all my money back.
+
+Invoice No.: <NUMBER>",0.7046893239021301
+0xx3w2,"Invoice No.: <NUMBER>
+
+Refund request reason: I can't cancle the service in time .Please can you refund me please. Because I don't use the service.",0.6790249943733215
+67g8p7,Invoice number: <NUMBER>Refund request reason: I want to request a refund for the service I did not use this month,0.6786947250366211
+o87hif,"Invoice No.: <NUMBER>
+
+Refund request reason: Hello, Can you please refund the above subscription which was taken out my account automatically i did not sign up to any yearly subscription & i have not been using the service.",0.6767374873161316
+lc25ya,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription auto-charged. Didn't realize that would happen. Was just trying the service out.",0.6701578497886658
+888vf8,"Invoice No.: <NUMBER>
+
+Refund request reason: I do not need the service and was charged for the subscription. I would like a refund.",0.6643399000167847
+34r5je,"Invoice No.: <NUMBER>
+
+Refund request reason: I cancelled service last month",0.6485816836357117
+gspeor,"Account number: <NUMBER>Refund request reason: I forgot to cancel the subscription, I did not use the services, I ask for a refund",0.6449719667434692
+s2jlin,"Invoice No.: <NUMBER>
+
+Refund request reason: Please refund this charge I have cancelled the service. Thank you",0.6425753831863403
+33drme,"Invoice No.: <NUMBER>
+
+Refund request reason: I don’t want to use this service",0.6408612132072449
+t9qqcr,"Invoice No.: <NUMBER>
+
+Refund request reason: I haven’t used this service in months. I was being charged without using at all.",0.6364368200302124
+wq09n1,"Account number: <NUMBER>Refund request reason: I would like to request a refund, because I do not use the service, I went in once to try it.",0.6267565488815308
+uo8ue0,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled this and would like a refund for what was just charged today. I do not need nor use the pro service.",0.619641900062561
+2kg7nl,"Invoice No.: <NUMBER>
+
+Refund request reason: Didn’t use the service do not need it",0.6184595823287964
+kpib20,"Invoice No.: <NUMBER>
+
+Refund request reason: Please cancel subscription. I have not used the service.",0.6150435209274292
+x3v424,"Invoice No.: <NUMBER>
+
+Refund request reason: I forgot to cancel my trial.  Canva Services are really great but I won't be using the services that often. So , It would be  great if you could refund the subscription amount.",0.6086643934249878
+pwy5rv,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+0jr44k,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+cq9wv2,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+rfyabo,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+2fpb87,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+y16433,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+t1u2cx,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+lx0p34,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+y047rk,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+8fpoto,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+gnmfjy,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+qel665,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+qnu053,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+sovrix,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+lvlikv,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+w3tegn,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+lseosc,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what they have charged me automatically, I really need that money please.",0.6061776876449585
+7nwpx5,"Invoice No.: <NUMBER>
+
+Refund request reason: I never used this service.  Please refund and cancel",0.5989564657211304
+70ma44,"Invoice No.: <NUMBER>
+
+Refund request reason: I had canceled my subscription back in December but I guess it didn't go through. I'd like to cancel my subscription immediately as I have not used the service at all.",0.5945811867713928
+fdflqw,"Invoice No.: <NUMBER>
+
+Refund request reason: I do not use this service",0.5922555327415466
+9gf6kt,Account number: <NUMBER>Refund request reason: I am not using your service and would like to cancel my subscription with a refund,0.5896918773651123
+w5ri4f,"Invoice No.: <NUMBER>
+
+Refund request reason: I have’t been used it.  Please refund it.  And I’d like to cancel your service.  Please",0.5885112881660461
+dbdjgs,"Invoice no.: <NUMBER>
+
+Refund request reason: The service will not be used.",0.5836395621299744
+u945di,Invoice No .: <NUMBER>Reason for requesting a refund: I would like to cancel Canva and request a refund because I can't use it and I never used the service,0.5819115042686462
+rj1pwg,Invoice No .: <NUMBER>Reason for requesting a refund: I would like to cancel Canva and request a refund because I can't use it and I never used the service,0.5819115042686462
+xppngk,"Invoice No.: <NUMBER>
+
+Refund request reason: I have canceled my subscription. I don't use the service.",0.5783786773681641
+jt26uk,Invoice number: <NUMBER>Refund request reason: I did not use the service and forgot to cancel the subscription and I was automatically charged.,0.5629928708076477
+x7wt3h,"Invoice No.: <NUMBER>
+
+Refund request reason: i requested cancelation yesterday and still had the $ deducted from my paypal. I am not using your services.  Please refund.",0.5577594041824341
+icus15,"Invoice No.: <NUMBER>
+
+Refund request reason: I haven't used this service yet, and I want to cancel the subscription.",0.55748450756073
+knfwbr,"Invoice No.: <NUMBER>
+
+Refund request reason: I did not need this service .",0.5550797581672668
+nki4o0,"Invoice No.: <NUMBER>
+
+Refund request reason: I never even used this service",0.549680233001709
+ydypf4,"Invoice No.: <NUMBER>
+
+Refund request reason: Subscription automatically processed. I don’t have need for this service.",0.5461286306381226
+jl4uo4,Invoice number: <NUMBER>Refund request reason: I was charged for the service I did not use.,0.5450552701950073
+ga0xww,"Invoice No.: <NUMBER>
+
+Refund request reason: I meant to cancel this and did not in time. I was just charged today and have not used the service at all",0.5281105041503906
+qh1iko,"Invoice No.: <NUMBER>
+
+Refund request reason: I'm not using the service...please cancel subscription",0.5144221782684326
+30mfyp,"Invoice number: <NUMBER>Refund request reason: I do not use the service, it was paid automatically, I would appreciate a refund please",0.5142703056335449
+48q1rl,"Invoice No.: <NUMBER>
+
+Refund request reason: I am not using this service. I forgot to cancel my trial and the charge accidentally went through.",0.5062987208366394
+n9b8bm,"Invoice No.: <NUMBER>
+
+Refund request reason: I submitted a cancellation request and I still received the charge. Can you please cancel? I do not even remember signing up for the service nor have I ever used it.",0.5038837194442749
+vwno92,"Invoice No.: <NUMBER>
+
+Refund request reason: I don't use the service",0.4930861294269562
+c2jrhr,"Invoice No.: <NUMBER>
+
+Refund request reason: Did not want pro service and was accidentally charged.",0.49108177423477173
+4puqeb,"Invoice No.: <NUMBER>
+
+Refund request reason: Not using service. Not satisfied with quality.",0.4842557907104492
+671e79,"Invoice No.: <NUMBER>
+
+Refund request reason: I had no idea you would bill me. I don't want the pro service. Please could I get a refund?",0.4785479009151459
+42d56u,"What kind of problem?: Other
+
+Describe your issue: You charged me for a service I never used. I had to have a friend cancel this for me since you did not as I requested in an email back in July 18,2020.  You continued to charge me for a service I never used.  I placed a dispute to my bank for all your charges to my account for services not rendered.  I am disappointed in your company.",0.47761476039886475
+t7u579,"Invoice No.: <NUMBER>
+
+Refund request reason: I don’t want the service.",0.47748345136642456
+kpuodo,"Invoice No.: <NUMBER>
+
+Refund request reason: Hi, I am not using the service and was not able to cancel the service on time due to personal reasons. Thank you for considering my plea.",0.47723984718322754
+mq2gik,"Invoice No.: <NUMBER>
+
+Refund request reason: I am unable to use the services the way I expected and I do not want the monthly services. Please refund my charges.",0.47528213262557983
+k7ls6k,Invoice no .: <NUMBER>Refund request reason: I have not used your services.,0.4728319048881531
+pba6qt,Invoice #: <NUMBER>Refund request reason: I would like a refund as the automatic debit was found and I am not using the Canva service. Through the bank already request the cancellation of the service,0.4707739055156708
+83bs29,"Invoice No.: <NUMBER>
+
+Refund request reason: refund all charges i did not use your service.
+
+ i will get a lawyer if needed.",0.46908193826675415
+r6lg2t,"Invoice No.: <NUMBER>
+
+Refund request reason: refund all charges i did not use your service.
+
+ i will get a lawyer if needed.",0.46908193826675415
+1y2ipe,"Invoice No.: <NUMBER>
+
+Refund request reason: refund all charges i did not use your service.
+
+ i will get a lawyer if needed.",0.46908193826675415
+5je91m,"Invoice No.: <NUMBER>
+
+Refund request reason: refund all charges i did not use your service.
+
+ i will get a lawyer if needed.",0.46908193826675415
+fw01ff,Invoice number: <NUMBER>Refund request reason: I would like to request a refund. The service with the company <NAME> moda feminina was terminated but they did not terminate the subscription. This company is no longer part of our accessory services!,0.4581218659877777
+65r3nd,Invoice number: <NUMBER>Refund request reason: I did not use the service and forgot to cancel the subscription for what I was charged automatically.,0.4540213942527771
+5cs5iv,"Invoice No.: <NUMBER>
+
+Refund request reason: I am requesting a refund as i initially canceled this service and for whatever reason it did not take effect",0.43977445363998413
+dglmn2,"Invoice No.: <NUMBER>
+
+Refund request reason: I have not used canva or it’s services. I need trying for all the past three charges",0.43856096267700195
+0189hr,"Invoice No.: <NUMBER>
+
+Refund request reason: Account was made without my permission. Did not want services",0.4326752722263336
+qhyc94,"Invoice number: <NUMBER>Refund request reason: I canceled the account because I didn't want to continue with the PRO service, however, I was charged. I am requesting a refund, as I am no longer using the PRO service.",0.4315458834171295
+utayeb,"Invoice number: <NUMBER>Refund request reason: Good morning, on 01/11 I tried to cancel the canva Pro subscription and delete my account, believing that I would not be able to charge for the service annually. The service was canceled but the charge was made the same. I request a refund of the same. Thank you so much",0.4264066815376282
+xl51ef,"Invoice No.: <NUMBER>
+
+Refund request reason: I will not be using canva. I prefer to pay when I use the service.",0.42577072978019714
+pxhxj4,Invoice number: <NUMBER>Refund request reason: I didn't use canva pro service and has been canceled. But the billing system,0.42131295800209045
+opcebp,Invoice number: <NUMBER>Refund request reason: I don't want to use the service and they charged me,0.4134938716888428
+skqo7b,"Invoice number: <NUMBER>Refund request reason: Please proceed with the replacement, I do not use this service.",0.41157692670822144
+8w9x5f,"Invoice No.: <NUMBER>
+
+Refund request reason: I do not want this service.",0.41134515404701233
+7smht0,Invoice no .: <NUMBER>Refund request reason: I have not used your services,0.4092162847518921
+8mfagn,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what I have been charged automatically.",0.40664738416671753
+gbwjqy,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what I have been charged automatically.",0.40664738416671753
+hpgm5a,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what I have been charged automatically.",0.40664738416671753
+lff1tt,"Invoice number: <NUMBER>Refund request reason: I do not use the service, I forgot to cancel the subscription for free for what I have been charged automatically.",0.40664738416671753
+ffj9cw,"Account number: <NUMBER>Refund request reason: Hello. They withdraw money for services without warning about them. Considering that I practically did not use your services and am not going to continue using it. I did not connect Pro, it happened automatically when I registered. You cannot disable this feature. Sincerely, <NAME>.",0.3966708183288574
+t9nwil,"Invoice No.: <NUMBER>
+
+Refund request reason: I need to cancel the service.  It is not in the budget and didn't realize that it had processed.  Can you please credit back the charge.  Hopefully, one day we can pick up the service.  Thank-you!  
+Jodi Rivera",0.38081586360931396
+myfrqo,"Invoice number: <NUMBER>Refund request reason: I had no idea about this purchase, I would like a refund as I will not use the service.",0.37664470076560974
+9ag3a7,"Invoice number: <NUMBER>Refund request reason: The trial period would end today, on 6/2/21, so I understood that I could cancel without being charged today, as I have not used the services anymore nor accessed the my canva login since the first week of january ... i would like to request this refund, as i no longer use these activities and services.",0.37425944209098816
+87219k,"Invoice number: <NUMBER>Refund request reason: I do not use the service, forget to cancel the subscription for free for what I have been charged automatically",0.3574974536895752
+57l085,"Invoice no.: <NUMBER>
+
+Refund request reason: I do not agree to this auto renewal and do not need your services. Thank you!",0.3175666928291321
+4oqemm,"Invoice No.: <NUMBER>
+
+Refund request reason: I canceled this service the next day.",0.2722166180610657
+wfdqa0,Account number: <NUMBER>Refund request reason: I do not use the service,0.25619080662727356
+4hvn3q,"Invoice No.: <NUMBER>
+
+Refund request reason: Do not need pro service",0.24061541259288788
+h1xtr5,"發票號碼: <NUMBER>
+
+Refund request reason: I do not need this service any more.",0.1863502711057663

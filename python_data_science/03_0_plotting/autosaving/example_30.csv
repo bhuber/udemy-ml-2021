@@ -1,0 +1,107 @@
+feedback_id,examples,confidence
+svkwsf,"What kind of problem is it? : Save problem description: When I try to save the design, I get a problem during preparation and cannot save. It doesn't change even if I try again.",0.9897407293319702
+fa8bnc,What kind of problem? : Save description of your problem: Unable to save changes,0.9895399212837219
+7lv2kl,What kind of problem is it? : Description of save problem: Save error and cannot edit,0.9858905076980591
+csp7j5,What kind of problem ?: save Your problem description: Cannot save.,0.985445499420166
+os697b,What kind of problem is it? : Save problem description: Not auto-saved,0.9850687384605408
+a2kxmr,What kind of problem ?: save Your problem description: I can't save,0.984698474407196
+jgeek3,What kind of problem? : Save description of your problem: I can't save it,0.9836769104003906
+pm92pr,What kind of problem? : Save description of your problem: Unable to save the edit shows a saving error,0.9824556112289429
+j91gdw,What kind of problem is it? : Save problem description: Undo,0.9818816781044006
+k8d75n,What kind of problem is it? : Description of save problem: What is OS,0.9816900491714478
+hrbnq8,What kind of problem ?: save Your problem description: I CAN'T SAVE IN THE FILE,0.9795122742652893
+1kcreg,What kind of problem? : Save description of your problem: The file is too large,0.9792335629463196
+int9t3,What kind of problem is it? : Description of save problem: I don't know where to save,0.979066014289856
+qf3qcx,What kind of problem ?: save Your problem description: save not known,0.9789052605628967
+9039lm,"What kind of problem? : Save the description of your problem: Automatically save all the layouts, can you help me reply to the previous step??",0.9771741032600403
+4w3qmm,What kind of problem? : Save the description of your problem: why save the pdf word will run away,0.9745275974273682
+7x6076,What kind of problem ?: save Your problem description: CANNOT SAVE,0.9738130569458008
+bjq9b1,What kind of problem is it? : Description of save problem: I get a save error and cannot edit,0.9732769727706909
+qi6k35,What kind of problem is it? : Save problem description: Design cannot be saved,0.9730767011642456
+b0pc6k,What kind of problem is it? : Description of save problem: Same image is saved more than once,0.9720978736877441
+qu0icc,Description of your problem: DO NOT KNOW HOW TO LOCK FONT What kind of problem ?: save,0.9715249538421631
+0tdid7,"What kind of problem? : Save the description of your problem: I opened the half-edited presentation, but it kept showing a save error, and it was not the same when I reloaded it as instructed.",0.971479594707489
+2qu9gl,What kind of problem is it? : Save problem description: Save error,0.9661033749580383
+m2cvje,"What kind of problem is it? : Save Problem Description: When you save an image on multiple pages, the created one will be blank and saved in a folder, or some edited characters and materials will be missing and saved.",0.9631545543670654
+3t2vk8,What kind of problem ?: Saving your problem description: No problem,0.9615522623062134
+o4c3e1,What kind of problem is it? : Description of save problem: Nothing has been saved so far,0.9602392911911011
+efghqx,What kind of problem ?: Downloading Description of your problem: Could not save,0.9576452970504761
+2uc97x,What kind of problem ?: Saving your problem description: I cannot save the file Why?,0.9572888016700745
+ga7gdb,"What kind of problem is it? : Save Problem Description: When I press Update, I get a save error and cannot edit.",0.9541262984275818
+4pj5tn,What kind of problem is it? : Save problem description: File type (gif save) is not displayed,0.9538835883140564
+xivjnj,What kind of problem? : Save description of your problem: How to archive,0.9484360814094543
+i1sqj7,What kind of problem? : Save description of your problem: Save to album,0.9479549527168274
+v4qkuh,What kind of problem ?: Other description of your problem: Not saved Why,0.9423257112503052
+w2ucrk,"What kind of problem? : Save description of your problem: Unable to delete text,",0.9421716928482056
+sdun5f,What kind of problem? : Other description of your problem: blank after saving,0.94028240442276
+i9lsyu,"What kind of problem? : Save description of your problem: When saving the picture, the text will run away",0.9399873614311218
+w6425s,What kind of problem? : Save description of your problem: File size adjustment,0.9387999176979065
+chidxa,What kind of problem? : Save description of your problem: Photos in MP4 video cannot be saved to,0.935259997844696
+ox1cjb,What kind of problem ?: Saving your problem description: I don't know him working with the program,0.9350621700286865
+x8p3n8,What kind of problem ?: Saving your problem description: Why isn't my design saved?,0.9332784414291382
+d454ic,What kind of incident ?: save Your problem description: Bored,0.93226158618927
+nv2maw,What kind of incident ?: save Description of your problem: return to your history,0.9320952892303467
+waevwm,What kind of problem is it? : Description of save problem: Unable to retrieve saved image,0.9311257600784302
+slgq9y,What kind of problem is it? : Description of save problem: I want to revert the overwriting,0.9272695779800415
+rv5s70,What kind of problem is it? : Save problem description: I want to see the design I made after interrupting work again. Where is it saved?,0.9228108525276184
+ay0vdh,What kind of problem ?: Saving your problem description: For BLS,0.9197235107421875
+d8s86y,What kind of problem? : Save description of your problem: my card saved in whish file,0.9047241806983948
+byq3yr,"What kind of problem is it? : Save problem description: I want to save to OneDrive, but I don't know what to do.",0.9037087559700012
+yaunbw,Problem description: Unable to save video What is the problem? : Save,0.8948531746864319
+ahkcnx,What kind of problem? : Save description of your problem: it takes a long time to save a page with videos,0.8919392228126526
+rs1g68,"What kind of problem is it? : Save problem description: I want to save an image, but I'm stuck with the finishing touches, why?",0.8887929320335388
+swro18,What kind of problem is it? : Save problem description: You may lose your work.,0.8883991837501526
+btbpf4,What kind of problem ?: save Your problem description: How many folders can I save my project?,0.887634813785553
+14ol4j,What kind of problem? : Save description of your problem: The saved picture is blurred,0.8796160221099854
+6x7wh9,What kind of problem is it: Saving Description of the problem: Reload repeatedly.,0.8710135817527771
+h83ybr,What kind of problem ?: Saving your problem description: Cannot copy and paste,0.8664560317993164
+mpt3fw,What kind of problem? : Save description of your problem: How to compress files,0.8611316680908203
+meo67g,What kind of problem ?: Typing. Description of your problem: The last update is bad,0.8543758392333984
+cqbvy9,What kind of problem is it? : Save Problem Description: I get an error message when changing an image.,0.8525169491767883
+5apu2d,What kind of problem is it? : Save problem description: Storage capacity is full. Is it possible to erase the previous image? Thank you for your reply.,0.8485785722732544
+vco7tg,What kind of problem is it? : Description of save problem: Blurred when saving,0.847558856010437
+fcpx5m,Description of your problem: I cannot save the image to my device What kind of problem ?: Saving,0.8467243313789368
+l5d0i7,What kind of problem? : Save description of your problem: Unable to download,0.836000919342041
+2gugn8,What kind of problem? : Save description of your problem: Unable to download,0.836000919342041
+ehay55,"Description of your problem: did not manually press r slide, what kind of problem ?: save",0.834402322769165
+6oewml,What kind of problem is it? : Description of save problem: The second image is not saved in the camera roll and the first one becomes two,0.8333064913749695
+ne1p11,Description of your problem: Failed to save image on device What kind of problem ?: Loading,0.8202111721038818
+ao9lqb,What kind of problem ?: save Description of your problem: The save on the photo is very fuzzy. Is there any way to clarify the picture?,0.8001925349235535
+veq2yi,What kind of problem is it? : Save problem description: Video download never ends,0.7807915210723877
+7rm2ua,"What kind of problem? : Save description of your problem: Save as a video with curved text, it will become a horizontal display",0.7747401595115662
+8m4fea,What kind of problem is it? : Description of save problem: Is save 100GB per account?,0.7653889656066895
+63nyx9,Problem description: What is the problem with strange characters? : Save,0.7469727396965027
+fchw2e,What kind of problem is it: Downloading Problem description: The first image could not be saved.,0.7437888979911804
+0bxmvn,What kind of problem ?: save Description of your problem: output video with no pictures,0.7417004108428955
+3cieo5,What kind of problem is it? : Description of save problem: How do I outline PDF data?,0.726515531539917
+4ifcnt,What kind of problem is it? : Other problem description: Purchased photo is not saved,0.7212234735488892
+5rmfjs,"What kind of problem? : Save the description of your problem: After the video is downloaded, there is no picture",0.7153326869010925
+m83haq,What kind of problem is it? : Description of save problem: The size of the video material in the preview has not changed when downloaded.,0.7043976783752441
+3mkddj,"What kind of problem is it: Recording? Problem description: Saving files in mp4, but missing images.",0.7042722702026367
+6dxwbl,What kind of problem ?: save Description of your problem: Full download vs PDF file is not,0.7041606903076172
+j57yro,What kind of problem is it? : Description of save problem: Color changes,0.7002017498016357
+l6911y,What kind of problem ?: save Description of your problem: Cannot save as image to phone. Looking forward to help. Thanks !,0.6998109221458435
+jnpxok,What kind of problem is it? : Save problem description: Video save is not in camera roll.,0.6886931657791138
+o5dad3,What kind of problem is it? : Save Problem Description: Unable to download. I'm preparing.,0.6873452663421631
+2n081y,What kind of problem? : Save the description of your problem: The font has been down for three days and can't be downloaded,0.6865007877349854
+x138k2,What kind of problem is it? : Description of save problem: Image format,0.6712730526924133
+yl4dhm,What kind of problem ?: save Your problem description: how would you like to save the downloads,0.657314658164978
+m4q3bs,What kind of problem is it? : Save problem description: Save destination,0.6421051621437073
+uv1uu5,What kind of problem? : Save description of your problem: Save mv pixels are very low,0.6328398585319519
+uqwpmp,What kind of problem? : Other description of your problem: Can't edit,0.6105495095252991
+450id6,What kind of problem is it? : Description of save problem: I want to make it B6 size,0.602393388748169
+s09aku,"What kind of problem is it? : Other problem description: Shared design is not covered, problem report screenshot cannot be added",0.584497332572937
+scbybl,What kind of problem ?: save Description of your problem: I can't save a 15p video,0.545745313167572
+76605x,What kind of problem is it? : Save problem description: Photo is not displayed,0.5453892350196838
+hbhgsh,"What kind of problem is it? : Save problem description: When I make a design, only the image is not saved and disappears.",0.4819035530090332
+sxk6kb,What kind of incident ?: save Description of your problem: Homie team 9 restore,0.47892266511917114
+t78u58,"What kind of problem is it? : Description of save problem: There is no problem on the screen, but the layout is broken when I download it. I didn't do this before.",0.4754904508590698
+2tm819,What kind of problem is it? : Save Problem Description: The purchased design is not saved in the holder.,0.45390331745147705
+b1m3yi,"Problem Description: We have contacted you before. I also updated the iPad itself, but it doesn't improve. If you save it, the image will be blurred. What kind of problem is it? : Save",0.42218196392059326
+1vwpmd,What's the problem ?: Other Describe your problem: The edit description is missing,0.32417383790016174
+ja9ptb,What kind of problem? : Other description of your problem: I was too stuck when drawing and couldn’t do it later,0.30829930305480957
+jcy2ud,What kind of problem is it? : Save problem description: Only pasted images disappear from camera roll when saving,0.3037416636943817
+4b5d5x,What kind of problem ?: save Your problem description: no card number,0.27536213397979736
+6j1h95,"What kind of problem ?: Download the description of your problem: I have an hour and I am waiting, but it is not useful",0.2590128779411316
+592sum,"What kind of problem is it? : Save problem description: I can't download the image for some reason. Of course, there was no problem with the internet environment. Is there any possible cause here?",0.20757639408111572
+7vkbjd,What kind of problem is it? : Other problem description: Package creation,0.1815793663263321

@@ -1,0 +1,52 @@
+feedback_id,examples,confidence
+d1opjp,What is the type of problem ?: saving Describe the problem: I can't save on pc,0.9837698936462402
+fm7t8f,What kind of problem ?: Saving Describe your problem: Since it became the same as the PC version it is much more complicated and badly saves projects in the gallery,0.9743091464042664
+s77hqp,What kind of problem is it ?: Saving Describe the problem: I cannot save to my pc,0.967591404914856
+a2cm1j,"Describe the problem: when I'm going to save, turn off my pc. What is the type of problem ?: saving",0.9662853479385376
+ccbbj5,"What kind of problem is it ?: Others Describe the problem: Canva is slow, I always get ""we couldn't save"". Maybe it's my pc, I don't know. You can help me?",0.9652772545814514
+ouimtw,What kind of problem is it ?: Saving Describe the problem: how to save design to pc,0.9649743437767029
+kstbhr,What kind of problem is it ?: How to save Describe the problem: Save to my PC,0.9606156945228577
+jof7f4,What kind of problem is it ?: Saving Describe the problem: it does not save the video on my pc,0.949544370174408
+9itsnn,What kind of problem is it ?: Saving Describe the problem: How do I save on my pc,0.9470760822296143
+u2gt77,"What kind of problem?: Saving
+
+Describe your issue: I  need to save this as a pdf in my pc",0.9456447958946228
+wjqwtr,"What kind of problem?: Saving
+
+Describe your issue: I am not able to save my video design on my pc. I need help. Thanks.",0.9424105286598206
+mdsa5c,What is the type of problem ?: saving Describe the problem: is not opening on my pc after saving,0.9410808086395264
+w2arun,What is the type of problem ?: saving Describe the problem: I am unable to save to the PC,0.9315788149833679
+fm1pdm,What kind of problem ?: Save Describe your problem: Can't save the file to my PC,0.9298043251037598
+vqnv1t,What kind of problem is it ?: Saving Describe the problem: HOW DO I SAVE MY PROJECT ON MY PC,0.9148247241973877
+na1ojv,What is the type of problem ?: saving Describe the problem: I can't save to my pc library,0.9091283082962036
+pqel7j,"What kind of problem?: Saving
+
+Describe your issue: TO MY pc",0.9081198573112488
+ency51,"What kind of problem?: Saving
+
+Describe your issue: The image doesn't look like the same after saving when I edit from the phone. I need to go to the pc to finish it. Fix that please",0.9044901728630066
+6dm0hf,"What kind of problem ?: Save Describe your problem: When I save my design on my PC, pieces of my design are missing from the image saved on my PC ...",0.8748471140861511
+3uuppr,"What kind of problem?: Saving
+
+Describe your issue: I need to save to Dropbox on this PC",0.860230565071106
+j71sow,What kind of problem is it ?: Downloading Describe the problem: In the mobile version I cannot save the file in PDF. In the pc version yes,0.8571438789367676
+wd1ujx,"What kind of problem?: Other
+
+Describe your issue: The designs change their layout depending on what type of computer we use. We have a PC in the office but I have a <NAME> at home and when I make any changes on one computer the placement is different and jumbled on the other. Then, if I get it looking correct on the <NAME> but try to save it, it saves all jumbled because it was started on the PC and therefore is still thinking that's the correct version.",0.7601814866065979
+nwt66l,"What kind of problem?: Downloading
+
+Describe your issue: it didnt save in my pc after downloading",0.7546986937522888
+375mxi,"What kind of problem?: Saving
+
+Describe your issue: I have a pro account with canva and am having issues. I have created a design (Module One) saved it as pdf on my pc. Then made a copy of Module One to create Module Two made the changes saved as pdf on my pc. All good. I then went back in to make some changes to Module One and it is no longer in my designs AT ALL. Firstly, WHY? and secondly can I upload the pdf version I have back into my designs and amend? Please let me know as soon as poss as I need to deliver to my client for Monday 1st Feb!!!! Thanks <NAME>",0.6325581073760986
+e9sdtk,"What kind of problem?: Downloading
+
+Describe your issue: Downlaods arent saving on my PC.",0.582788348197937
+cpeuqt,"What type of problem is it ?: Others Describe the problem: When you work on a design on your PC, and then try to open it on your mobile, the design is distorted. Looks like a device incompatibility",0.5766850113868713
+7ssltu,What kind of problem ?: Loading Describe your problem: The project I see from the application is not updated with the one made by the pc,0.5630360245704651
+8p8k7v,"What kind of problem is it? : Explanation of save problem: The layout is fine on the PC, but when I look at it on my smartphone, it is off the screen. It was reflected properly until yesterday, why?",0.4536333978176117
+ph4hpw,What kind of problem is it ?: Others Describe the problem: I cannot edit my designs on the pc,0.39300471544265747
+326faq,What kind of problem ?: Saving Describe your problem: Something is always missing once a project of type mp4 is saved. The photos are absent. Fonts are not loading completely. This happens only from the app and never from a pc.,0.38509589433670044
+sgxkes,"What is your problem related to ?: Other Describe the problem .: In the mobile version of the site, everything jumps - those designs that I did on pc",0.3827544152736664
+03brsv,"What is the type of problem ?: Other Describe the problem: PROBLEM IN EDITING ON DIFFERENT PLATFORMS (ANDROID AND PC) I create several files on the PC but when I edit on the android phone the texts open all misaligned and with different sizes, this happens both in when editing the files.",0.2909669876098633
+t8i0s1,"What is the problem ?: save Describe your problem: I WANT TO SAVE MY DESIGN RESULTS FROM PC, BUT WHY TO PAY",0.24985387921333313
